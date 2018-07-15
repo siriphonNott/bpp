@@ -1,280 +1,205 @@
- <!-- ========== Feature - Cards 2 ========== -->
+<!-- ========== Page Title ========== -->
 
-        <div id="services" class="gray-bg">
-          <section class="container section ft-cards-2">
+        <header class="page-title pt-large pt-dark pt-plax-lg-dark-about-us" data-stellar-background-ratio="0.4">
+          <div class="container">
+              <div class="row">
+
+                <div class="col-sm-6">
+                  <h1>About Us</h1>
+                  <span class="subheading">Few words about us</span>
+                </div>
+                <ol class="col-sm-6 text-right breadcrumb">
+                   <li><a href="<?php echo base_url(); ?>">Home</a></li>
+                   <li class="active">About US</li>
+                </ol>
+              </div>
+
+            </div>
+        </header>
+
+
+        <!-- ========== About - Section ========== -->
+
+        <section id="about" class="container">
+          <div class="row section">
 
             <header class="sec-heading">
-              <h2>What we do</h2>
-              <span class="subheading">Lorem ipsum dolor sit amet, consectetur</span>
+              <h2>About baan puripuri</h2>
+              <span class="subheading">The beat of Townhome</span>
             </header>
 
-            <div class="row">
-
-              <div class="col-md-6">
-
-                <!-- Item 1 -->
-                <div class="ft-card-item wow fadeInUp" data-wow-duration="1.2s">
-                  <img src="http://placehold.it/350x370" alt="Feature Image">
-                  <div class="ft-content">
-                    <h5>Service One</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
-                    <a href="#" class="link-btn">Learn More <span class="linea-arrows-slim-right"></span></a>
-                  </div>
-                </div><!-- / .ft-card-item -->
-
-                <!-- Item 2 -->
-                <div class="ft-card-item wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.2s">
-                  <img src="http://placehold.it/350x370" alt="Feature Image">
-                  <div class="ft-content">
-                    <h5>Service Three</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
-                    <a href="#" class="link-btn">Learn More <span class="linea-arrows-slim-right"></span></a>
-                  </div>
-                </div><!-- / .ft-card-item -->
-
-              </div><!-- / .col-md-6 -->
-
-              <div class="col-md-6">
-
-                <!-- Item 3 -->
-                <div class="ft-card-item wow fadeInUp" data-wow-duration="1.2s">
-                  <img src="http://placehold.it/350x370" alt="Feature Image">
-                  <div class="ft-content">
-                    <h5>Service Two</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
-                    <a href="#" class="link-btn">Learn More <span class="linea-arrows-slim-right"></span></a>
-                  </div>
-                </div><!-- / .ft-card-item -->
-
-                <!-- Item 4 -->
-                <div class="ft-card-item wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.2s">
-                  <img src="http://placehold.it/350x370" alt="Feature Image">
-                  <div class="ft-content">
-                    <h5>Service Four</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
-                    <a href="#" class="link-btn">Learn More <span class="linea-arrows-slim-right"></span></a>
-                  </div>
-                </div><!-- / .ft-card-item -->
-
-              </div><!-- / .col-md-6 -->
-
-            </div><!-- / .row -->
-          </section><!-- / .container -->
-        </div><!-- / .gray-bg -->
-
-
-
-        <!-- ========== Feature - Steps Numbers ========== -->
-
-        <section class="container ft-steps-numbers">
-            <div class="row section">
-
-              <header class="sec-heading ws-s">
-                <h2>Our work process</h2>
-                <span class="subheading">Lorem ipsum dolor sit amet, consectetur</span>
-              </header>
-
-              <!-- Step 1 -->
-              <div class="col-lg-4 col-md-6 mb-sm-100 ft-item wow fadeIn" data-wow-duration="1s">
-                <span class="ft-nbr">01</span>
-                <h4>Design</h4>
-                <p>Lariatur, excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est</p>
-              </div>
-
-              <!-- Step 2 -->
-              <div class="col-lg-4 col-md-6 mb-sm-100 ft-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">
-                <span class="ft-nbr">02</span>
-                <h4>Develop</h4>
-                <p>Lariatur, excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est</p>
-              </div>
-
-              <!-- Step 3 -->
-              <div class="col-lg-4 col-md-6 ft-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".6s">
-                <span class="ft-nbr">03</span>
-                <h4>Deploy</h4>
-                <p>Lariatur, excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est</p>
-              </div>
-
-            </div><!-- / .row -->
-
-            <!-- CTA Button -->
-            <div class="row ws-m">
-              <div class="text-center">
-                <a href="#contact" class="btn">Get a free quote</a>
-              </div>
-            </div><!-- / .row -->
-
+            <div class="col-md-offset-1 col-md-10">
+              <blockquote>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  baan puripuri (บ้านภูริปุรี) เกิดจากการรวมกลุ่มกันของสถาปนิกเพื่อพัฒนาโครงการที่อยู่อาศัยขนาดเล็กแต่มีคุณภาพ มีความโดดเด่นเป็นเอกลักษณ์และมีคุณค่าทางสถาปัตยกรรม
+              <!-- <footer><cite>By </cite></footer> -->
+            </blockquote>
+            </div><br>
+            <div class="col-md-offset-1 col-md-10">
+            <blockquote>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                บ้านในความคิดของเราต้องเป็นมากกว่าความสะดวกสบายและพื้นที่ใช้สอย ไม่ใช่เพียงแค่ก่อผนังแล้วคลุมด้วยหลังคา แต่ต้องเป็นที่ที่ได้
+รับการสร้างสรร พินิจพิเคราะห์ และออกแบบมาอย่างดี พิถีพิถัน ลงตัวทั้งในด้านพื้นที่ใช้สอยและความงามทางสถาปัตยกรรม จึงไม่น่า
+แปลกที่บ้านของเราจะแตกต่างและโดดเด่น สวยงามในทุกรายละเอียด
+                </blockquote>
+            </div>
+          </div><!-- / .row -->
+          <div class="row ws-m">
+            <div class="col-md-12 text-center">
+              <a class="btn-text">Thank You -)</a>
+            </div>
+          </div>
         </section><!-- / .container -->
 
 
 
-        <!-- ========== Cricle Counters - Parallax ========== -->
+        <!-- ========== Number Counters ========== -->
 
-        <div id="skillsCircles" class="circles-counters">
+        <div class="number-counters" style="display:none;">
           <div class="container">
             <div id="counters" class="row count-wrapper">
 
               <!-- Item 1 -->
-              <div class="col-sm-6 col-lg-3 circle-item wow zoomIn" data-wow-duration=".6s" data-wow-delay=".3s">
-                <div class="chart" data-percent="75"><span class="circle-icon linea-basic-gear"></span></div>
-                <span class="circle-text">Web Development</span>
+              <div class="col-md-3 mb-sm-100 count-item">
+                <span id="count-1" class="count-nbr">467</span>
+                <span class="count-text">Projects completed</span>
               </div>
 
               <!-- Item 2 -->
-              <div class="col-sm-6 col-lg-3 circle-item wow zoomIn" data-wow-duration=".6s">
-                <div class="chart" data-percent="75"><span class="circle-icon linea-basic-display"></span></div>
-                <span class="circle-text">Web Design</span>
+              <div class="col-md-3 mb-sm-100 count-item">
+                <span id="count-2" class="count-nbr">2835</span>
+                <span class="count-text">Emails Send</span>
               </div>
 
               <!-- Item 3 -->
-              <div class="col-sm-6 col-lg-3 circle-item wow zoomIn" data-wow-duration=".6s">
-                <div class="chart" data-percent="75"><span class="circle-icon linea-basic-photo"></span></div>
-                <span class="circle-text">Photography</span>
+              <div class="col-md-3 mb-sm-100 count-item">
+                <span id="count-3" class="count-nbr">46,930</span>
+                <span class="count-text">Pixels created</span>
               </div>
 
               <!-- Item 4 -->
-              <div class="col-sm-6 col-lg-3 circle-item wow zoomIn" data-wow-duration=".6s" data-wow-delay=".3s">
-                <div class="chart" data-percent="75"><span class="circle-icon linea-basic-star"></span></div>
-                <span class="circle-text">Marketing</span>
+              <div class="col-md-3 count-item">
+                <span id="count-4" class="count-nbr">102,890</span>
+                <span class="count-text">Happy clients</span>
               </div>
 
             </div><!-- / .row -->
           </div><!-- / .container -->
-        </div><!-- / .circles-counters -->
+        </div><!-- / .number-counters -->
 
 
 
-        <!-- ========== Portfolio ========== -->
+        <!-- ========== Team ========== -->
 
-        <section class="container portfolio-layout portfolio-columns-boxed">
-          <div class="row">
-            <header class="sec-heading">
-              <h2>Some of our project</h2>
-              <span class="subheading">Lorem ipsum dolor sit amet consectetur adipisicing</span>
-            </header>
-          </div><!-- / .row -->
+        <div class="gray-bg" style="display:none;">
+          <section class="container section team-3col">
+            <div class="row">
 
-          <!-- Filters -->
-          <div class="row">
-            <ul id="pfolio-filters" class="portfolio-filters">
-              <li class="active"><a href="#" data-filter="*">All</a></li>
-              <li><a href="#" data-filter=".webdesing">Webdesign</a></li>
-              <li><a href="#" data-filter=".print">Print</a></li>
-              <li><a href="#" data-filter=".photo">Photography</a></li>
-            </ul>
-          </div>
+              <header class="sec-heading">
+                <h2>Meet the team</h2>
+                <span class="subheading">We are creative professionals</span>
+              </header>
 
-          <div class="row ws-m">
-            <div id="pfolio">
+              <!-- Member 1 -->
+              <div class="col-lg-4 col-md-6 mb-sm-50">
+                <div class="t-item">
 
-              <!-- Item 1 -->
-              <div class="col-md-4 portfolio-item print">
-                <div class="p-wrapper hover-default">
-                  <img src="http://placehold.it/990x650/aaa/ccc" alt="Project Example">
-                  <div class="p-hover">
-                    <div class="p-content">
-                      <h4>Project Name</h4>
-                      <h6 class="subheading">Sub heading for the project</h6>
+                  <!-- Image -->
+                  <div class="t-image">
+                    <img src="http://placehold.it/360x440" alt="Team Member" class="img-responsive">
+                    <div class="t-description">
+                      <div class="content-wrapper">
+                        <h4 class="h-alt">Hello!</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                      </div>
                     </div>
                   </div>
-                  <a href="portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
-                </div>
-              </div><!-- / .portfolio-item -->
 
-              <!-- Item 2 -->
-              <div class="col-md-4 portfolio-item webdesing photo">
-                <div class="p-wrapper hover-default">
-                  <img src="http://placehold.it/990x650" alt="Project Example">
-                  <div class="p-hover">
-                    <div class="p-content">
-                      <h4>Project Name</h4>
-                      <h6 class="subheading">Sub heading for the project</h6>
+                  <!-- Info -->
+                  <div class="t-info">
+                    <h4 class="t-name">Philip Lee</h4>
+                    <span class="t-role">CEO &amp; Founder</span>
+                    <ul class="social-links">
+                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                      <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                    </ul>
+                  </div>
+
+                </div><!-- / .t-item -->
+              </div><!-- / .col-md-4 -->
+
+
+              <!-- Member 2 -->
+              <div class="col-lg-4 col-md-6 mb-sm-50">
+                <div class="t-item">
+
+                  <!-- Image -->
+                  <div class="t-image">
+                    <img src="http://placehold.it/360x440" alt="Team Member" class="img-responsive">
+                    <div class="t-description">
+                      <div class="content-wrapper">
+                        <h4 class="h-alt">Hello!</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                      </div>
                     </div>
                   </div>
-                  <a href="portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
-                </div>
-              </div><!-- / .portfolio-item -->
 
-              <!-- Item 3 -->
-              <div class="col-md-4 portfolio-item photo print">
-                <div class="p-wrapper hover-default">
-                  <img src="http://placehold.it/990x650/aaa/ccc" alt="Project Example">
-                  <div class="p-hover">
-                    <div class="p-content">
-                      <h4>Project Name</h4>
-                      <h6 class="subheading">Sub heading for the project</h6>
+                  <!-- Info -->
+                  <div class="t-info">
+                    <h4 class="t-name">Carol Greene</h4>
+                    <span class="t-role">Art Director</span>
+                    <ul class="social-links">
+                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                      <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                    </ul>
+                  </div>
+
+                </div><!-- / .t-item -->
+              </div><!-- / .col-md-4 -->
+
+
+              <!-- Member 3 -->
+              <div class="col-lg-4 col-md-6 mb-sm-50">
+                <div class="t-item">
+
+                  <!-- Image -->
+                  <div class="t-image">
+                    <img src="http://placehold.it/360x440" alt="Team Member" class="img-responsive">
+                    <div class="t-description">
+                      <div class="content-wrapper">
+                        <h4 class="h-alt">Hello!</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                      </div>
                     </div>
                   </div>
-                  <a href="portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
-                </div>
-              </div><!-- / .portfolio-item -->
 
-              <!-- Item 4 -->
-              <div class="col-md-4 portfolio-item webdesing print">
-                <div class="p-wrapper hover-default">
-                  <img src="http://placehold.it/990x650" alt="Project Example">
-                  <div class="p-hover">
-                    <div class="p-content">
-                      <h4>Project Name</h4>
-                      <h6 class="subheading">Sub heading for the project</h6>
-                    </div>
+                  <!-- Info -->
+                  <div class="t-info">
+                    <h4 class="t-name">Tyler Owens</h4>
+                    <span class="t-role">Lead Designer</span>
+                    <ul class="social-links">
+                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                      <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                    </ul>
                   </div>
-                  <a href="portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
-                </div>
-              </div><!-- / .portfolio-item -->
 
-              <!-- Item 5 -->
-              <div class="col-md-4 portfolio-item webdesing">
-                <div class="p-wrapper hover-default">
-                  <img src="http://placehold.it/990x650/aaa/ccc" alt="Project Example">
-                  <div class="p-hover">
-                    <div class="p-content">
-                      <h4>Project Name</h4>
-                      <h6 class="subheading">Sub heading for the project</h6>
-                    </div>
-                  </div>
-                  <a href="portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
-                </div>
-              </div><!-- / .portfolio-item -->
+                </div><!-- / .t-item -->
+              </div><!-- / .col-md-4 -->
 
-              <!-- Item 6 -->
-              <div class="col-md-4 portfolio-item print webdesing photo">
-                <div class="p-wrapper hover-default">
-                  <img src="http://placehold.it/990x650" alt="Project Example">
-                  <div class="p-hover">
-                    <div class="p-content">
-                      <h4>Project Name</h4>
-                      <h6 class="subheading">Sub heading for the project</h6>
-                    </div>
-                  </div>
-                  <a href="portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
-                </div>
-              </div><!-- / .portfolio-item -->
 
-            </div><!-- / #pfolio -->
-          </div><!-- / .row -->
-        </section><!-- / .portfolio-columns-boxed -->
+            </div><!-- / .row -->
+          </section><!-- / .contianer -->
+        </div><!-- / .gray-bg -->
 
 
 
-        <!-- ========== CTA - Contact Link ========== -->
+        <!-- ========== Testimonials + Clients - Parallax Slider ========== -->
 
-        <div class="cta-link">
-          <div class="bg-overlay">
-
-            <div class="cta-wrapper">
-              <h3 class="h-alt wow fadeIn" data-wow-delay=".1s" data-wow-duration="1s">See what we can do for you</h3>
-              <a href="#contact" class="btn btn-light btn-large wow fadeIn" data-wow-delay=".3s" data-wow-duration="1s">Get in touch</a>
-            </div>
-
-          </div>
-        </div><!-- / .dark-bg .cta-link -->
-
-
-
-        <!-- ========== Testimonials ========== -->
-
-        <div class="testimonials-parallax">
+        <div class="testimonials-parallax" style="display:none;">
           <div class="bg-overlay">
 
             <div class="t-wrapper t-slider">
@@ -319,12 +244,12 @@
 
             <!-- Client Slider -->
             <ul class="t-clients clients-slider">
-              <li><a href="#"><img src="assets/images/client-logo-placeholder.png" alt="Client"></a></li>
-              <li><a href="#"><img src="assets/images/client-logo-placeholder.png" alt="Client"></a></li>
-              <li><a href="#"><img src="assets/images/client-logo-placeholder.png" alt="Client"></a></li>
-              <li><a href="#"><img src="assets/images/client-logo-placeholder.png" alt="Client"></a></li>
-              <li><a href="#"><img src="assets/images/client-logo-placeholder.png" alt="Client"></a></li>
-              <li><a href="#"><img src="assets/images/client-logo-placeholder.png" alt="Client"></a></li>
+              <li><a href="#"><img src="../assets/images/client-logo-placeholder.png" alt="Client"></a></li>
+              <li><a href="#"><img src="../assets/images/client-logo-placeholder.png" alt="Client"></a></li>
+              <li><a href="#"><img src="../assets/images/client-logo-placeholder.png" alt="Client"></a></li>
+              <li><a href="#"><img src="../assets/images/client-logo-placeholder.png" alt="Client"></a></li>
+              <li><a href="#"><img src="../assets/images/client-logo-placeholder.png" alt="Client"></a></li>
+              <li><a href="#"><img src="../assets/images/client-logo-placeholder.png" alt="Client"></a></li>
             </ul><!-- / .t-clients -->
 
           </div><!-- / .bg-overlay -->
@@ -332,267 +257,81 @@
 
 
 
-        <!-- ========== Blog Preview ========== -->
+        <!-- ========== Feature - Small Icons ========== -->
 
-        <div class="gray-bg">
-          <section class="section container blog-columns blog-preview">
-            <div class="row">
-
-              <header class="sec-heading">
-                <h2>Latest from our blog</h2>
-                <span class="subheading">Check out our blog to see what were up to</span>
-              </header>
-
-
-              <!-- Blog Post 1 -->
-              <div class="col-lg-4 col-md-6 mb-sm-50">
-                <div class="blog-post wow fadeIn" data-wow-duration="2s">
-
-                  <!-- Image -->
-                  <a href="pages/blog/blog-post.html" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
-
-                  <div class="bp-content">
-
-                    <!-- Meta data -->
-                    <div class="post-meta">
-                      <a href="#" class="post-date">
-                        <i class="fa fa-calendar-o"></i>
-                        <span>August 01.2015</span>
-                      </a>
-                      <a href="#" class="post-comments">
-                        <i class="fa fa-comments-o"></i>
-                        <span>12</span>
-                      </a>
-                    </div><!-- / .meta -->
-
-                    <!-- Post Title -->
-                    <a href="pages/blog/blog-post.html" class="post-title"><h4>Blog Post Title</h4></a>
-
-                    <!-- Blurb -->
-                    <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
-
-                    <!-- Link -->
-                    <a href="pages/blog/blog-post.html" class="btn btn-small">Read More</a>
-
-                  </div><!-- / .bp-content -->
-
-                </div><!-- / .blog-post -->
-              </div><!-- / .col-lg-4 -->
-
-
-              <!-- Blog Post 2 -->
-              <div class="col-lg-4 col-md-6 mb-sm-50">
-                <div class="blog-post wow fadeIn" data-wow-duration="2s" data-wow-delay=".3s">
-
-                  <!-- Image -->
-                  <a href="pages/blog/blog-post.html" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
-
-                  <div class="bp-content">
-
-                    <!-- Meta data -->
-                    <div class="post-meta">
-                      <a href="#" class="post-date">
-                        <i class="fa fa-calendar-o"></i>
-                        <span>August 01.2015</span>
-                      </a>
-                      <a href="#" class="post-comments">
-                        <i class="fa fa-comments-o"></i>
-                        <span>12</span>
-                      </a>
-                    </div><!-- / .meta -->
-
-                    <!-- Post Title -->
-                    <a href="pages/blog/blog-post.html" class="post-title"><h4>Blog Post Title</h4></a>
-
-                    <!-- Blurb -->
-                    <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
-
-                    <!-- Link -->
-                    <a href="pages/blog/blog-post.html" class="btn btn-small">Read More</a>
-
-                  </div><!-- / .bp-content -->
-
-                </div><!-- / .blog-post -->
-              </div><!-- / .col-lg-4 -->
-
-
-              <!-- Blog Post 3 -->
-              <div class="col-lg-4 col-md-6">
-                <div class="blog-post wow fadeIn" data-wow-duration="2s" data-wow-delay=".6s">
-
-                  <!-- Image -->
-                  <a href="pages/blog/blog-post.html" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
-
-                  <div class="bp-content">
-
-                    <!-- Meta data -->
-                    <div class="post-meta">
-                      <a href="#" class="post-date">
-                        <i class="fa fa-calendar-o"></i>
-                        <span>August 01.2015</span>
-                      </a>
-                      <a href="#" class="post-comments">
-                        <i class="fa fa-comments-o"></i>
-                        <span>12</span>
-                      </a>
-                    </div><!-- / .meta -->
-
-                    <!-- Post Title -->
-                    <a href="pages/blog/blog-post.html" class="post-title"><h4>Blog Post Title</h4></a>
-
-                    <!-- Blurb -->
-                    <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
-
-                    <!-- Link -->
-                    <a href="pages/blog/blog-post.html" class="btn btn-small">Read More</a>
-
-                  </div><!-- / .bp-content -->
-
-                </div><!-- / .blog-post -->
-              </div><!-- / .col-lg-4 -->
-
-
-            </div><!-- / .row -->
-          </section><!-- / .container -->
-        </div><!-- / .gray-bg -->
-
-
-
-        <!-- ========== CTA - Newsletter Signup ========== -->
-
-        <div class="cta-newsletter">
-          <div class="bg-overlay">
-            <div class="cta-wrapper">
-
-              <h3 class="cta-lead h-alt wow fadeIn" data-wow-delay=".1s" data-wow-duration="1s">Join our newsletter</h3>
-
-              <form class="mc-ajax mc-form subscribe-form" _lpchecked="1">
-
-                <!-- Email -->
-                <input type="email" name="EMAIL" placeholder="Your email address" id="mc-email" class="wow fadeInUp" data-wow-delay=".1s" data-wow-duration="1s" >
-
-                <!-- Send Button -->
-                <input type="submit" name="subscribe" value="Join Us" class="btn btn-light btn-large wow fadeInUp mc-send-btn" data-wow-delay=".1s" data-wow-duration="1s">
-
-                <!-- Info (uncomment this for extra info) -->
-                <!-- <label for="mc-email" class="mc-info"></label> -->
-
-                <!-- Ajax message -->
-                <div class="subscribe-result"></div>
-
-              </form>
-
-            </div><!-- / .cta-wrapper -->
-          </div><!-- / .bg-overlay -->
-        </div><!-- / .cta-newsletter -->
-
-
-
-        <!-- ========== Contact ========== -->
-
-        <section class="section contact-1">
+        <section class="container section ft-x" style="display:none;">
 
           <header class="sec-heading">
-            <h2>Countact Us</h2>
-            <span class="subheading">We love to hear from you</span>
+            <h2>Why chose us</h2>
+            <span class="subheading">We provide high quality services</span>
           </header>
 
-          <div class="contact-wrapper">
-            <!-- Map -->
-            <div id="map-canvas" class="gmap map-boxed"></div>
+          <div class="row ws-s">
 
-            <!-- Show Info Button -->
-            <div class="show-info-link">
-              <a href="#" class="show-info"><i class="fa fa-info"></i><h6>Show info</h6></a>
+            <div class="col-md-4 ft-item">
+              <!-- Item 1 -->
+              <div class="col-md-12 no-gap ws-s ft-item ft-dark-spin">
+                <i class="fa fa-star"></i>
+                <h5>Lots of features</h5>
+                <p>Lorem ipsum dolor sit amet, ete elit consectetur adipisicing. Omnis quae, ipsam impedit eius, vero.</p>
+              </div><!-- / .ft-item -->
+
+              <!-- Item 4 -->
+              <div class="col-md-12 no-gap ws-s ft-item ft-dark-spin">
+                <i class="fa fa-rocket"></i>
+                <h5>Startup ready</h5>
+                <p>Lorem ipsum dolor sit amet, ete elit consectetur adipisicing. Omnis quae, ipsam impedit eius, vero.</p>
+              </div><!-- / .ft-item -->
             </div>
 
-            <div class="container">
-              <div class="row ws-m">
 
-                <!-- Address Info -->
-                <div class="col-xs-offset-1 col-xs-11 col-md-offset-2 col-md-6 contact-info-wrapper">
-                  <address>
-                    <div class="row">
+            <div class="col-md-4 ft-item">
+              <!-- Item 2 -->
+              <div class="col-md-12 no-gap ws-s ft-item ft-dark-spin">
+                <i class="fa fa-cogs"></i>
+                <h5>Easily adjustible</h5>
+                <p>Lorem ipsum dolor sit amet, ete elit consectetur adipisicing. Omnis quae, ipsam impedit eius, vero.</p>
+              </div><!-- / .ft-item -->
 
-                      <!-- Phone -->
-                      <div class="col-sm-6 address-group">
-                        <span>Phone</span>
-                        <a href="#">+ 123 4567 890</a>
-                        <a href="#">+ 123 7654 098</a>
-                      </div>
+              <!-- Item 5 -->
+              <div class="col-md-12 no-gap ws-s ft-item ft-dark-spin">
+                <i class="fa fa-hand-peace-o"></i>
+                <h5>Bootstrap based</h5>
+                <p>Lorem ipsum dolor sit amet, ete elit consectetur adipisicing. Omnis quae, ipsam impedit eius, vero.</p>
+              </div><!-- / .ft-item -->
+            </div>
 
-                      <!-- Address -->
-                      <div class="col-sm-5 address-group">
-                        <span>Address</span>
-                        <p>1200 some street, il, US</p>
-                      </div>
 
-                    </div><!-- / .row -->
+            <div class="col-md-4 ft-item">
+              <!-- Item 3 -->
+              <div class="col-md-12 no-gap ws-s ft-item ft-dark-spin">
+                <i class="fa fa-support"></i>
+                <h5>Fast Support</h5>
+                <p>Lorem ipsum dolor sit amet, ete elit consectetur adipisicing. Omnis quae, ipsam impedit eius, vero.</p>
+              </div><!-- / .ft-item -->
 
-                    <div class="row">
+              <!-- Item 6 -->
+              <div class="col-md-12 no-gap ws-s ft-item ft-dark-spin">
+                <i class="fa fa-heart"></i>
+                <h5>Made with love</h5>
+                <p>Lorem ipsum dolor sit amet, ete elit consectetur adipisicing. Omnis quae, ipsam impedit eius, vero.</p>
+              </div><!-- / .ft-item -->
+            </div>
 
-                      <!-- Email -->
-                      <div class="col-sm-6 address-group">
-                        <span>Email</span>
-                        <a href="mailto:sayhello@email.com">sayhello@email.com</a>
-                      </div>
+          </div><!-- / .row -->
+        </section><!-- / .container .ft-frames -->
 
-                      <!-- Hours -->
-                      <div class="col-sm-5 address-group">
-                        <span>Open Hours</span>
-                        <p>Mon-Fri: 9am-5pm</p>
-                        <p>Sat: 10am-1pm</p>
-                      </div>
 
-                    </div><!-- / .row -->
 
-                    <!-- Show Map Button -->
-                    <div class="row show-map-link">
-                      <a href="#" class="show-map"><span class="icon-map-pin"></span>Show on map</a>
-                    </div><!-- / .row -->
-                  </address>
-                </div><!-- / .contact-info-wrapper -->
-              </div><!-- / .row -->
+        <!-- ========== CTA - Contact Link ========== -->
 
-              <!-- Contact Form -->
-              <div class="row">
-                <form action="assets/contact-form/contact-form.php" method="POST" id="contact-form-1" class="form-ajax">
-                  <div class="col-md-offset-2 col-md-4 wow fadeInUp" data-wow-duration="1s">
+        <div class="cta-link" style="display:none;">
+          <div class="bg-overlay">
 
-                    <!-- Name -->
-                    <div class="form-group">
-                      <input type="text" name="name" id="name-contact-1" class="form-control validate-locally" placeholder="Enter your name">
-                      <label for="name-contact-1">Name</label>
-                      <span class="pull-right alert-error"></span>
-                    </div>
+            <div class="cta-wrapper">
+              <h3 class="h-alt wow fadeIn" data-wow-delay=".1s" data-wow-duration="1s">Love to hear from you</h3>
+              <a href="#contact" class="btn btn-light btn-large wow fadeIn" data-wow-delay=".3s" data-wow-duration="1s">Get in touch</a>
+            </div>
 
-                    <!-- Email -->
-                    <div class="form-group">
-                      <input type="email" name="email" id="email-contact-1" class="form-control validate-locally" placeholder="Enter your email">
-                      <label for="email-contact-1">Email</label>
-                      <span class="pull-right alert-error"></span>
-                    </div>
-
-                  </div>
-
-                  <div class="col-md-4 wow fadeInUp" data-wow-duration="1s">
-
-                    <!-- Message -->
-                    <div class="form-group">
-                      <textarea name="message" id="message-contact-1" class="form-control" rows="5" placeholder="Your Message"></textarea>
-                      <label for="message-contact-1">Message</label>
-                    </div>
-                    <div>
-                      <input type="submit" class="btn pull-right" value="Send Message">
-                    </div>
-
-                    <!-- Ajax Message -->
-                    <div class="ajax-message col-md-12 no-gap"></div>
-
-                  </div><!-- / .col-md-4 -->
-
-                </form>
-              </div><!-- / .row -->
-            </div><!-- / .container -->
-          </div><!-- / .contact-wrapper -->
-        </section><!-- / .contact-1 -->
+          </div>
+        </div><!-- / .cta-link -->

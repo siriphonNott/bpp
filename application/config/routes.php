@@ -58,6 +58,7 @@ $route['townhome'] = 'home';
 $route['home-office'] = 'homeOffice';
 $route['about-us'] = 'aboutUs';
 $route['previous-project'] = 'previousProject';
+$route['previous-project/portfolio/(:any)'] = 'previousProject/portfolio';
 $route['contact-us'] = 'contactUs';
 $route['join-us'] = 'joinUs';
 

@@ -3,10 +3,10 @@ $navbar_top = '';
 $contentPath = get_defined_vars()['contentPath'];
 //Check Home , Coming soon and 404
 if ($this->router->fetch_class() === 'home' || strpos($contentPath, 'comingsoon') !== false || strpos($contentPath, 'error/404') !== false) {
-    $navbar_top = 'navbar-fixed-top navbar-trans';
 } else {
     $navbar_top = 'navbar-static-top';
 }
+$navbar_top = 'navbar-fixed-top navbar-trans';
 ?>
 <!doctype html>
 <html class="no-js" lang="en">

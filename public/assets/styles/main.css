@@ -2059,12 +2059,38 @@ fieldset[disabled] .form-control:hover {
   background: rgba(244, 244, 244, 0.85);
 }
 
-.pt-plax-lg-dark {
-  background: url(http://placehold.it/2440x1280);
+
+.pt-plax-lg-dark-contact {
+  background: url('../images/bg/parallax/parallax01.jpg') bottom center;
   background-size: cover;
 }
 
-.pt-plax-lg-dark:before {
+.pt-plax-lg-dark-join-us {
+    background: url('../images/bg/parallax/parallax02.jpg') bottom center;
+    background-size: cover;
+}
+
+.pt-plax-lg-dark-previous-project {
+  background: url('../images/bg/parallax/parallax04.jpg') bottom center;
+  background-size: cover;
+}
+
+.pt-plax-lg-dark-about-us {
+    background: url('../images/bg/parallax/parallax05.jpg') bottom center;
+    background-size: cover;
+  }
+
+  .pt-plax-lg-dark-portfolio {
+    background: url('../images/bg/parallax/parallax03.jpg') bottom center;
+    background-size: cover;
+  }
+
+  .pt-plax-lg-dark:before,
+  .pt-plax-lg-dark-contact:before, 
+  .pt-plax-lg-dark-join-us:before,
+  .pt-plax-lg-dark-previous-project:before,
+  .pt-plax-lg-dark-portfolio:before,
+  .pt-plax-lg-dark-about-us:before {
   content: '';
   position: absolute;
   top: 0;
@@ -2075,7 +2101,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-plax-lg-light {
-  background: url(http://placehold.it/2440x1280);
+  background: url('../images/bg/parallax/parallax02.jpg') bottom center;
   background-size: cover;
 }
 

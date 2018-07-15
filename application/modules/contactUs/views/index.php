@@ -1,19 +1,20 @@
-<!-- ========== Page Title ========== -->
+        <!-- ========== Page Title ========== -->
 
-        <header class="page-title pt-dark">
+        <header class="page-title pt-large pt-dark  pt-plax-lg-dark-contact" data-stellar-background-ratio="0.4">
           <div class="container">
-            <div class="row">
-              <div class="col-sm-6">
-                <h1>Contact</h1>
-                <span class="subheading">Love to hear from you</span>
+              <div class="row">
+
+                <div class="col-sm-6">
+                  <h1>Contact</h1>
+                  <span class="subheading">Love to hear from you</span>
+                </div>
+                <ol class="col-sm-6 text-right breadcrumb">
+                  <li><a href="<?php echo base_url(); ?>">Home</a></li>
+                  <li class="active">Contact</li>
+                </ol>
+
               </div>
-              <ol class="col-sm-6 text-right breadcrumb">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Elements</a></li>
-                <li class="active">Contact</li>
-              </ol>
             </div>
-          </div>
         </header>
 
         <!-- ========== Contact ========== -->
@@ -21,7 +22,7 @@
         <section id="contact" class="section contact-2">
 
           <header class="sec-heading">
-            <h2>Say Hello</h2>
+            <h2>Address</h2>
             <span class="subheading">We love to discuss your idea</span>
           </header>
 
@@ -39,7 +40,7 @@
                     <span class="linea-basic-map adr-icon"></span>
                     <div class="adr-group">
                       <span class="adr-heading">Address</span>
-                      <span class="adr-info">100 Street, Il, Us</span>
+                      <span class="adr-info">-</span>
                     </div>
                   </li>
 
@@ -48,7 +49,7 @@
                     <span class="linea-basic-paperplane adr-icon"></span>
                     <div class="adr-group">
                       <span class="adr-heading">Email</span>
-                      <span class="adr-info">sayhello@email.com</span>
+                      <span class="adr-info">sales@baanpuripuri.com</span>
                     </div>
                   </li>
 
@@ -57,7 +58,7 @@
                     <span class="linea-basic-smartphone adr-icon"></span>
                     <div class="adr-group">
                       <span class="adr-heading">Phone</span>
-                      <span class="adr-info">+ 123 4567 890</span>
+                      <span class="adr-info">081 9195901</span>
                     </div>
                   </li>
                 </ul>

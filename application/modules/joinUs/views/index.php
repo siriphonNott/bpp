@@ -1,17 +1,16 @@
         <!-- ========== Page Title ========== -->
 
-        <header class="page-title pt-large pt-light pt-parallax pt-plax-lg-light" data-stellar-background-ratio="0.4">
+        <header class="page-title pt-large pt-dark pt-parallax pt-plax-lg-dark-join-us" data-stellar-background-ratio="0.4">
           <div class="container">
               <div class="row">
 
                 <div class="col-sm-6">
-                  <h1>Contact</h1>
+                  <h1>JOIN US</h1>
                   <span class="subheading">Love to hear from you</span>
                 </div>
                 <ol class="col-sm-6 text-right breadcrumb">
-                  <li><a href="#">Home</a></li>
-                  <li><a href="#">Elements</a></li>
-                  <li class="active">Contact</li>
+                  <li><a href="<?php echo base_url(); ?>">Home</a></li>
+                  <li class="active">JOIN US</li>
                 </ol>
 
               </div>
