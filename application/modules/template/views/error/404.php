@@ -1,12 +1,19 @@
-<div class="error-page" style="text-align:center;">
-    <h2 class="headline text-yellow"> 404</h2>
-    <div class="error-content">
-        <h3>
-            <i class="fa fa-warning text-yellow" style=""></i> Oops! Page not found.</h3>
-        <button type="button" onclick="javascript:window.open('<?php echo base_url(); ?>','_self')" class="btn btn-block btn-primary"
-            style="width: 100px; margin:0 auto;">
-            <i class="fa fa-undo" aria-hidden="true"></i> &nbsp; Back</button>
-    </div>
-    <!-- /.error-content -->
-</div>
-<!-- /.error-page -->
+  <!-- ========== 404 Page - (Not Found) ========== -->
+
+        <div class="wrapper-404">
+          <div class="content-wrapper">
+
+            <div class="lead-wrapper">
+              <h1 class="lead-404">404</h1>
+            </div>
+
+            <div class="info-wrapper">
+              <p class="info-404">Oops... The page that you are looking<br> for does not exist! Luckily enough we,<br> have some pages that do exist</p>
+            </div>
+
+            <ul class="links-404">
+              <li><a href="<?php echo base_url(); ?>" class="btn btn-light btn-small">Go Back Home</a></li>
+            </ul>
+
+          </div>
+        </div><!-- / .wrapper-404 -->

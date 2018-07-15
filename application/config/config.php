@@ -24,7 +24,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |
  */
 $config['base_url'] = $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['SERVER_NAME'] . '/';
-$config['assets'] = $config['base_url'] . 'static/assets/';
+$config['assets'] = $config['base_url'] . 'assets/';
 
 /*
 |--------------------------------------------------------------------------

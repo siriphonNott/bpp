@@ -54,7 +54,12 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = false;
 
 //Menu
-$route['home'] = 'home';
+$route['townhome'] = 'home';
+$route['home-office'] = 'homeOffice';
+$route['about-us'] = 'aboutUs';
+$route['previous-project'] = 'previousProject';
+$route['contact-us'] = 'contactUs';
+$route['join-us'] = 'joinUs';
 
 //Page Not Fond
 $route['404'] = 'template/pageNotFound';
