@@ -10411,3 +10411,15 @@ form .input-error-2:focus {
     background: url('../images/bg/map/map.jpg');
     background-size: cover;
 } */
+
+.nav.navbar-nav.nav-home {
+    margin-top:0!important;
+}
+
+.navbar-header.nav-home {
+    margin-top: 0!important;
+}
+
+.navbar-static-top.nav-home {
+    min-height: 50px;
+}

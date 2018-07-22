@@ -1,11 +1,13 @@
 <?php
 $navbar_top = '';
+$nav_home = '';
 $contentPath = get_defined_vars()['contentPath'];
 //Check Home , Coming soon and 404
 //|| strpos($contentPath, 'comingsoon') !== false || strpos($contentPath, 'error/404') !== false
 $navbar_top = 'navbar navbar-default ';
 if ($this->router->fetch_class() === 'home' || $this->router->fetch_class() === 'townhome') {
-    $navbar_top .= 'navbar-static-top';
+    $navbar_top .= 'navbar-static-top nav-home';
+    $nav_home = 'nav-home';
 } else {
     $navbar_top .= 'navbar-fixed-top navbar-trans';
 }
@@ -58,7 +60,7 @@ if ($this->router->fetch_class() === 'home' || $this->router->fetch_class() === 
         <!-- ========== Navigation ========== -->
         <nav class="<?php echo $navbar_top; ?>">
           <div class="container">
-            <div class="navbar-header" >
+            <div class="navbar-header <?php echo $nav_home; ?>" >
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
@@ -72,7 +74,7 @@ if ($this->router->fetch_class() === 'home' || $this->router->fetch_class() === 
 
             <!-- Navbar Links -->
             <div id="navbar" class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
+              <ul class="nav navbar-nav <?php echo $nav_home; ?>">
 
                 <!-- TOWNHOME -->
                 <li class="dropdown mega-fw">

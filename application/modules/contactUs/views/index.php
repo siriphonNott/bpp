@@ -54,7 +54,7 @@
 
                     <!-- Message -->
                     <div class="form-group">
-                      <p>Just say hello, or tell me about your project</p>
+                      <p>Put your message here.</p>
                       <textarea class="form-control" name="message" id="message-contact-1" rows="5"></textarea>
                       <label for="message-contact-1">Message *</label>
                     </div>
