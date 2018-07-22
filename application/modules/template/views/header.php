@@ -2,11 +2,14 @@
 $navbar_top = '';
 $contentPath = get_defined_vars()['contentPath'];
 //Check Home , Coming soon and 404
-if ($this->router->fetch_class() === 'home' || strpos($contentPath, 'comingsoon') !== false || strpos($contentPath, 'error/404') !== false) {
+//|| strpos($contentPath, 'comingsoon') !== false || strpos($contentPath, 'error/404') !== false
+$navbar_top = 'navbar navbar-default ';
+if ($this->router->fetch_class() === 'home' || $this->router->fetch_class() === 'townhome') {
+    $navbar_top .= 'navbar-static-top';
 } else {
-    $navbar_top = 'navbar-static-top';
+    $navbar_top .= 'navbar-fixed-top navbar-trans';
 }
-$navbar_top = 'navbar-fixed-top navbar-trans';
+
 ?>
 <!doctype html>
 <html class="no-js" lang="en">
@@ -53,7 +56,7 @@ $navbar_top = 'navbar-fixed-top navbar-trans';
 
 
         <!-- ========== Navigation ========== -->
-        <nav class="navbar navbar-default <?php echo $navbar_top; ?> mega">
+        <nav class="<?php echo $navbar_top; ?>">
           <div class="container">
             <div class="navbar-header" >
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">

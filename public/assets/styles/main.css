@@ -4397,7 +4397,7 @@ fieldset[disabled] .form-control:hover {
 -------------------------------------------------- */
 /* ---- 12.1 Testimonial - 1 Column Slider ---- */
 .testimonials-parallax, .testimonials-dark {
-  background: url(http://placehold.it/2440x1578);
+  background: url('../images/bg/parallax/parallax05.jpg');
   background-size: cover;
   background-position: 50%;
   background-attachment: fixed;
@@ -5059,7 +5059,7 @@ fieldset[disabled] .form-control:hover {
   text-transform: uppercase;
   font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
   font-size: .85em;
-  letter-spacing: 2.5px;
+  letter-spacing: 1px;
   color: #777;
 }
 
@@ -7957,7 +7957,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-1 .bg-overlay {
-  background: rgba(17, 17, 17, 0.6);
+  /* background: rgba(17, 17, 17, 0.6); */
 }
 
 .fs-slide-1 .hero-content {
@@ -7984,7 +7984,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-2 .bg-overlay {
-  background: rgba(17, 17, 17, 0.6);
+  /* background: rgba(17, 17, 17, 0.6); */
 }
 
 .fs-slide-2 .hero-content {
@@ -8016,7 +8016,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-3 .bg-overlay {
-  background: rgba(17, 17, 17, 0.6);
+  /* background: rgba(17, 17, 17, 0.6); */
 }
 
 .fs-slide-3 .hero-content {
@@ -8049,7 +8049,7 @@ form .input-error-2:focus {
   }
   
   .fs-slide-4 .bg-overlay {
-    background: rgba(17, 17, 17, 0.6);
+    /* background: rgba(17, 17, 17, 0.6); */
   }
   
   .fs-slide-4 .hero-content {
@@ -8082,7 +8082,7 @@ form .input-error-2:focus {
   }
   
   .fs-slide-5 .bg-overlay {
-    background: rgba(17, 17, 17, 0.6);
+    /* background: rgba(17, 17, 17, 0.6); */
   }
   
   .fs-slide-5 .hero-content {
@@ -8115,7 +8115,7 @@ form .input-error-2:focus {
   }
   
   .fs-slide-6 .bg-overlay {
-    background: rgba(17, 17, 17, 0.6);
+    /* background: rgba(17, 17, 17, 0.6); */
   }
   
   .fs-slide-6 .hero-content {
@@ -10373,3 +10373,41 @@ form .input-error-2:focus {
 .font-white {
    color:white;
 }
+
+.join-us .form-wrapper .from-header {
+    margin-bottom: 70px;
+}
+.join-us .form-wrapper  { 
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.contact .form-wrapper {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 50px 100px 100px 100px;
+}
+
+.contact .form-wrapper .from-header {
+    margin-bottom: 70px;
+}
+
+.section {
+    padding-top: 100px;
+}
+
+.portfolio-columns-fw, .portfolio-columns-boxed {
+    margin-top: 100px;
+}
+
+.info .sec-heading {
+    margin-bottom: 0;
+}
+.info .sec-heading h1 {
+    line-height: 2;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+/* .location {
+    background: url('../images/bg/map/map.jpg');
+    background-size: cover;
+} */

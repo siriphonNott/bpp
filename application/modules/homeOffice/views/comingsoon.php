@@ -9,7 +9,12 @@
                 <div class="col-md-6">
                   <header>
                     <h1 style="font-size:2.5em; color:white;">Coming Soon</h1>
-                    <p>Our website is in the final stage of development, subscribe<br> bellow to get notified when is live</p>
+                    <p>
+                        baan puripuri เรามีโครงการ Home Office ในอนาคตครับ<br>
+                        Location อยู่ที่ลาดพร้าว 41 แยก 6-7 (ที่ตั้งสำนักงานขาย)<br>
+                        ตอนนี้อยู่ในขั้นตอนการออกแบบ ท่านที่สนใจขออนุญาตขอ Email ไว้<br>
+                        ถ้ามีรายละเอียดจะแจ้งให้ทราบครับ
+                    </p>
                   </header>
                   <form class="mc-ajax mc-form subscribe-form" _lpchecked="1">
                     <h5 class="font-white">Get notified when we are live</h5>

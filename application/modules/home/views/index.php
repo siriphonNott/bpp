@@ -95,15 +95,24 @@
 
         <!-- ========== Feature - Steps Numbers ========== -->
 
-         <div id="services" class="gray-bg">
+         <div class="gray-bg info">
           <section class="container section ft-cards-2">
 
             <header class="sec-heading">
-              <h2>Information</h2>
-              <span class="subheading">Information about project</span>
+              <h1>พบกับโครงการใหม่ล่าสุดของเรา baan puripuri ลาดพร้าว 41<br>ราคาเริ่มต้น 9.7 ล้านบาท*</h1>
+              <span class="subheading">
+                  ด้วยความความคิด private garden อันโดดเด่นกับสวนตัวหลัวบ้านทุกหลัง<br>
+                  รูปแบบบ้านและขนาดจะเหมือนกับโครงการที่แล้วของเรา baan puripuri สตรีวิทยา 2
+              </span><br>
+              <p>จำนวน 15 หลัง</p>
+              <p>
+                 ขนาดที่ดิน: เริ่ม 25 ตารางวา<br>
+                 พื้นที่ใช้สอย: 233 ตารางเมตร<br>
+                3 ห้องนอน / 4 ห้องน้ำ / 2 ที่จอดรถ
+              </p>
             </header>
 
-            <div class="row">
+            <div class="row" style="display:none;">
 
               <div class="col-md-6">
 
@@ -195,19 +204,22 @@
         <section id="portfolio" class="container-fluid portfolio-layout portfolio-columns-fw">
           <div class="row">
             <header class="sec-heading">
-            <h1 style="font-size:40px;">project</h1>
-              <span class="subheading">Current Project</span>
+            <h1 style="font-size:40px;">gallery</h1>
+              <span class="subheading">
+                  Gallery ด้านล่างเป็นบ้านโครงการ baan puripuri ที่สตรีวิทยา 2<br>
+                  โครงการใหม่ของเราที่ลาดพร้าว 41 จะเป็นแบบเดียวกัน ขนาดเท่ากันครับ
+            </span>
             </header>
           </div><!-- / .row -->
 
           <!-- Filters -->
           <div class="row">
             <ul id="pfolio-filters" class="portfolio-filters">
-              <li class="active"><a href="#" data-filter="*">All</a></li>
-              <li><a href="#" data-filter=".livingroom">Living room</a></li>
-              <li><a href="#" data-filter=".bedroom">Bedroom</a></li>
-              <li><a href="#" data-filter=".bathroom">Bathroom</a></li>
-              <li><a href="#" data-filter=".relaxroom">Relax Zone</a></li>
+              <li class="active"><a href="#" data-filter="*">EXTERIOR</a></li>
+              <li><a href="#" data-filter=".livingroom">KITCHEN & DINING</a></li>
+              <li><a href="#" data-filter=".bedroom">MASTER BEDROOM</a></li>
+              <li><a href="#" data-filter=".bathroom">MASTER BATHROOM</a></li>
+              <li><a href="#" data-filter=".relaxroom">PRIVATE GARDEN</a></li>
             </ul>
           </div>
 
@@ -346,39 +358,65 @@
         </section><!-- / .portfolio-columns-fw -->
 
 
-        <!-- ========== CTA - Newsletter Signup ========== -->
+        <!-- ========== Testimonials ========== -->
 
-        <div class="cta-newsletter">
+        <div class="testimonials-parallax">
           <div class="bg-overlay">
-            <div class="cta-wrapper">
 
-              <h3 class="cta-lead h-alt wow fadeIn" data-wow-delay=".1s" data-wow-duration="1s">Join our newsletter</h3>
+            <div class="t-wrapper t-slider">
 
-              <form class="mc-ajax mc-form subscribe-form" _lpchecked="1">
+              <!-- Testimonial 1 -->
+              <blockquote>
+                ห้องดีมาก บริการดีครับ
+                <span class="et-quote t-type"></span>
+                <footer>
+                  <cite>
+                    <h5 class="h-alt">John Smith</h5>
+                    <!-- <h5>John Smith</h5> -->
+                  </cite>
+                </footer>
+              </blockquote>
 
-                <!-- Email -->
-                <input type="email" name="EMAIL" placeholder="Your email address" id="mc-email" class="wow fadeInUp" data-wow-delay=".1s" data-wow-duration="1s" >
+              <!-- Testimonial 2 -->
+              <blockquote>
+                ดีไซด์ ดูทันสมัย หรูหรา ถูกใจมากๆ
+                <span class="et-quote t-type"></span>
+                <footer>
+                  <cite>
+                    <h5 class="h-alt">Susan Cavin</h5>
+                    <!-- <h5>Susan</h5> -->
+                  </cite>
+                </footer>
+              </blockquote>
 
-                <!-- Send Button -->
-                <input type="submit" name="subscribe" value="Join Us" class="btn btn-light btn-large wow fadeInUp mc-send-btn" data-wow-delay=".1s" data-wow-duration="1s">
+              <!-- Testimonial 3 -->
+              <blockquote>
+                 บริการดีมากครับ
+                <span class="et-quote t-type"></span>
+                <footer>
+                  <cite>
+                    <h5 class="h-alt">Sunida</h5>
+                    <!-- <h5>CEO - Company Name</h5> -->
+                  </cite>
+                </footer>
+              </blockquote>
 
-                <!-- Info (uncomment this for extra info) -->
-                <!-- <label for="mc-email" class="mc-info"></label> -->
+            </div><!-- / .t-wrapper -->
 
-                <!-- Ajax message -->
-                <div class="subscribe-result"></div>
-
-              </form>
-
-            </div><!-- / .cta-wrapper -->
           </div><!-- / .bg-overlay -->
-        </div><!-- / .cta-newsletter -->
+        </div><!-- / .testimonials-parallax -->
+
 
           <!-- ========== Footer Contact ========== -->
 
         <footer id="contact" class="footer-contact">
           <div class="container-fluid">
             <div class="row">
+
+                <!-- location -->
+              <div class="col-lg-6  section location">
+                  <img src="<?php echo config_item('assets'); ?>/images/bg/map/map.jpg" width="100%" alt="">
+              </div><!-- / .col-lg-6 -->
 
               <!-- Map and address -->
               <div class="col-lg-6 no-gap contact-info">
@@ -393,67 +431,29 @@
                     <!-- Address -->
                     <li class="contact-group">
                       <span class="adr-heading">Address</span>
-                      <span class="adr-info">-</span>
+                      <span class="adr-info">ซอย ลาดพร้าว 41 (ภาวนา) แยก 6-7</span>
+                    </li>
+                    <!-- Address -->
+                    <li class="contact-group">
+                      <!-- <span class="adr-heading"></span> -->
+                      <span class="adr-info">ระยะห่างจากปากซอยลาดพร้าว 41: 1.2 กม.</span>
+                      <span class="adr-info">ระยะห่างจากปากซอยลาดพร้าว 35: 1.5 กม.</span>
                     </li>
                     <!-- Email -->
                     <li class="contact-group">
                       <span class="adr-heading">Email</span>
                       <span class="adr-info">sales@baanpuripuri.com</span>
                     </li>
-                  </ul>
-                  <ul>
                     <!-- Phone -->
                     <li class="contact-group">
-                      <span class="adr-heading">Phone</span>
-                      <span class="adr-info">-</span>
-                    </li>
-                    <!-- Mobile -->
-                    <li class="contact-group">
-                      <span class="adr-heading">Mobile</span>
+                      <span class="adr-heading">PHONE</span>
                       <span class="adr-info">081 9195901</span>
                     </li>
                   </ul>
 
-                  <a href="#" class="show-map"><span class="linea-basic-geolocalize-05"></span>show on map</a>
+                  <a href="#" class="show-map"><span class="linea-basic-geolocalize-05"></span>GOOGLE MAP</a>
                 </address>
 
-              </div><!-- / .col-lg-6 -->
-
-
-              <!-- Contact Form -->
-              <div class="col-lg-6 no-gap section contact-form">
-                <header class="sec-heading">
-                  <h2>Contact</h2>
-                  <span class="subheading"></span>
-                </header>
-
-                <form action="assets/contact-form/contact-form.php" method="POST" class="form-ajax wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-
-                  <!-- Name -->
-                  <div class="form-group">
-                    <input type="text" name="name" id="name-contact-1" class="form-control validate-locally" placeholder="Enter your name">
-                    <label for="name-contact-1">Name</label>
-                    <span class="pull-right alert-error"></span>
-                  </div>
-
-                  <!-- Email -->
-                  <div class="form-group">
-                    <input type="email" name="email" id="email-contact-1" class="form-control validate-locally" placeholder="Enter your email">
-                    <label for="email-contact-1">Email</label>
-                    <span class="pull-right alert-error"></span>
-                  </div>
-
-                  <!-- Message -->
-                  <div class="form-group">
-                    <textarea class="form-control" name="message" id="message-contact-1" rows="5" placeholder="Your Message"></textarea>
-                    <label for="message-contact-1">Message</label>
-                  </div>
-                  <input type="submit" class="btn pull-right" value="Send Message">
-
-                  <!-- Ajax Message -->
-                  <div class="ajax-message col-md-12 no-gap"></div>
-
-                </form>
               </div><!-- / .col-lg-6 -->
 
             </div><!-- / .row -->
@@ -467,7 +467,6 @@
 
                 <ul>
                   <li><a target="_blank" href="http://www.facebook.com/baanpuripuri">facebook</a></li>
-                  <li><a href="#">Twitter</a></li>
                   <li><a href="#">Youtube</a></li>
                 </ul>
 

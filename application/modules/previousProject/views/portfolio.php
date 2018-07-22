@@ -70,12 +70,11 @@
         <div class="gray-bg project-nav">
           <div class="container">
             <div class="row">
-
               <nav>
                 <ul class="nav-btns">
-                  <li class="prev"><a href="#"><span class="nav-icon linea-arrows-slim-left"></span>  prev project</a></li>
+                  <!-- <li class="prev"><a href="#"><span class="nav-icon linea-arrows-slim-left"></span>  prev project</a></li> -->
                   <!-- <li class="all"><a href="portfolio-fw-3col.html"><span class="nav-icon linea-arrows-squares"></span></a></li> -->
-                  <li class="next"><a href="#">next project <span class="nav-icon linea-arrows-slim-right"></span></a></li>
+                  <!-- <li class="next"><a href="#">next project <span class="nav-icon linea-arrows-slim-right"></span></a></li> -->
                 </ul>
               </nav>
 

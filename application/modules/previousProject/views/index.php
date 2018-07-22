@@ -31,9 +31,9 @@
           <div class="row">
             <ul id="pfolio-filters" class="portfolio-filters">
               <!-- <li class="active"><a href="#" data-filter="*">All</a></li> -->
-              <li class="active"><a href="#" data-filter=".webdesing">Townhome Renovation</a></li>
+              <li class="active"><a href="#" data-filter=".photo">Townhome with Private Garden : Satreewit 2</a></li>
               <li><a href="#" data-filter=".print">Townhome with Private Courtyard</a></li>
-              <li><a href="#" data-filter=".photo">Townhome with Private Garden : Satreewit 2</a></li>
+              <li><a href="#" data-filter=".webdesing">Townhome Renovation</a></li>
             </ul>
           </div>
 
