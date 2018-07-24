@@ -4397,9 +4397,9 @@ fieldset[disabled] .form-control:hover {
 -------------------------------------------------- */
 /* ---- 12.1 Testimonial - 1 Column Slider ---- */
 .testimonials-parallax, .testimonials-dark {
-  background: url('../images/bg/parallax/parallax05.jpg');
-  background-size: cover;
-  background-position: 50%;
+  background: url('../images/shattered.gif');
+  /* background-size: cover;
+  background-position: 50%; */
   background-attachment: fixed;
 }
 
@@ -10378,12 +10378,12 @@ form .input-error-2:focus {
     margin-bottom: 70px;
 }
 .join-us .form-wrapper  { 
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .contact .form-wrapper {
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     padding: 50px 100px 100px 100px;
 }
 
@@ -10392,11 +10392,11 @@ form .input-error-2:focus {
 }
 
 .section {
-    padding-top: 100px;
+    padding-top: 50px;
 }
-
+    
 .portfolio-columns-fw, .portfolio-columns-boxed {
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .info .sec-heading {

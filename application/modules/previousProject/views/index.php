@@ -19,113 +19,175 @@
 
         <!-- ========== Portfolio ========== -->
 
-        <section class="container portfolio-layout portfolio-columns-boxed">
-          <div class="row">
-            <header class="sec-heading">
-              <h2>previous project</h2>
-              <span class="subheading">Last project</span>
-            </header>
-          </div><!-- / .row -->
+        <section id="portfolio" class="container-fluid portfolio-layout portfolio-columns-fw">
+            <div class="row">
+                <header class="sec-heading">
+                <h2>previous project</h2>
+                <span class="subheading">Last project</span>
+                </header>
+            </div><!-- / .row -->
 
-          <!-- Filters -->
-          <div class="row">
-            <ul id="pfolio-filters" class="portfolio-filters">
-              <!-- <li class="active"><a href="#" data-filter="*">All</a></li> -->
-              <li class="active"><a href="#" data-filter=".photo">Townhome with Private Garden : Satreewit 2</a></li>
-              <li><a href="#" data-filter=".print">Townhome with Private Courtyard</a></li>
-              <li><a href="#" data-filter=".webdesing">Townhome Renovation</a></li>
-            </ul>
-          </div>
+            <!-- Filters -->
+            <div class="row">
+                <ul id="pfolio-filters" class="portfolio-filters">
+                <li class="active"><a href="#" data-filter="*">All</a></li>
+                <li><a href="#" data-filter=".satreewit2">Townhome with Private Garden : Satreewit 2</a></li>
+                <li><a href="#" data-filter=".private-courtyard">Townhome with Private Courtyard</a></li>
+                <li><a href="#" data-filter=".renovation">Townhome Renovation</a></li>
+                </ul>
+            </div>
 
-          <div class="row ws-m">
+
+          <div class="row">
             <div id="pfolio">
 
               <!-- Item 1 -->
-              <div class="col-md-4 portfolio-item print">
+              <div class="col-md-4 portfolio-item renovation">
                 <div class="p-wrapper hover-default">
-                  <img src="http://placehold.it/990x650/aaa/ccc" alt="Project Example">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv01.jpg" alt="project20">
                   <div class="p-hover">
                     <div class="p-content">
-                      <h4>Project Name</h4>
-                      <h6 class="subheading">Sub heading for the project</h6>
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="<?php echo base_url('previous-project'); ?>/portfolio/Townhome Renovation" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv01.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
               <!-- Item 2 -->
-              <div class="col-md-4 portfolio-item webdesing photo">
+              <div class="col-md-4 portfolio-item renovation">
                 <div class="p-wrapper hover-default">
-                  <img src="http://placehold.it/990x650" alt="Project Example">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv02.jpg" alt="project21">
                   <div class="p-hover">
                     <div class="p-content">
-                      <h4>Project Name</h4>
-                      <h6 class="subheading">Sub heading for the project</h6>
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv02.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
               <!-- Item 3 -->
-              <div class="col-md-4 portfolio-item photo print">
+              <div class="col-md-4 portfolio-item renovation">
                 <div class="p-wrapper hover-default">
-                  <img src="http://placehold.it/990x650/aaa/ccc" alt="Project Example">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv03.jpg" alt="project40">
                   <div class="p-hover">
                     <div class="p-content">
-                      <h4>Project Name</h4>
-                      <h6 class="subheading">Sub heading for the project</h6>
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv03.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
               <!-- Item 4 -->
-              <div class="col-md-4 portfolio-item webdesing print">
+              <div class="col-md-4 portfolio-item renovation">
                 <div class="p-wrapper hover-default">
-                  <img src="http://placehold.it/990x650" alt="Project Example">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv04.jpg" alt="project50">
                   <div class="p-hover">
                     <div class="p-content">
-                      <h4>Project Name</h4>
-                      <h6 class="subheading">Sub heading for the project</h6>
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv04.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
               <!-- Item 5 -->
-              <div class="col-md-4 portfolio-item webdesing">
+              <div class="col-md-4 portfolio-item private-courtyard">
                 <div class="p-wrapper hover-default">
-                  <img src="http://placehold.it/990x650/aaa/ccc" alt="Project Example">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc01.jpg" alt="project30">
                   <div class="p-hover">
                     <div class="p-content">
-                      <h4>Project Name</h4>
-                      <h6 class="subheading">Sub heading for the project</h6>
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc01.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
               <!-- Item 6 -->
-              <div class="col-md-4 portfolio-item print webdesing photo">
+              <div class="col-md-4 portfolio-item private-courtyard">
                 <div class="p-wrapper hover-default">
-                  <img src="http://placehold.it/990x650" alt="Project Example">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc02.jpg" alt="project32">
                   <div class="p-hover">
                     <div class="p-content">
-                      <h4>Project Name</h4>
-                      <h6 class="subheading">Sub heading for the project</h6>
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc02.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
+                <!-- Item 7 -->
+                <div class="col-md-4 portfolio-item private-courtyard">
+                <div class="p-wrapper hover-default">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc03.jpg" alt="project33">
+                  <div class="p-hover">
+                    <div class="p-content">
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
+                    </div>
+                  </div>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc04.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                </div>
+              </div><!-- / .portfolio-item -->
+
+
+                <!-- Item 8 -->
+                <div class="col-md-4 portfolio-item private-courtyard">
+                <div class="p-wrapper hover-default">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc04.jpg" alt="project33">
+                  <div class="p-hover">
+                    <div class="p-content">
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
+                    </div>
+                  </div>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc05.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                </div>
+              </div><!-- / .portfolio-item -->
+
+
+                <!-- Item 9 -->
+                <div class="col-md-4 portfolio-item private-courtyard">
+                <div class="p-wrapper hover-default">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc05.jpg" alt="project33">
+                  <div class="p-hover">
+                    <div class="p-content">
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
+                    </div>
+                  </div>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc06.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                </div>
+              </div><!-- / .portfolio-item -->
+
+
+                <!-- Item 10 -->
+                <div class="col-md-4 portfolio-item private-courtyard">
+                <div class="p-wrapper hover-default">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc06.jpg" alt="project33">
+                  <div class="p-hover">
+                    <div class="p-content">
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
+                    </div>
+                  </div>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc03.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                </div>
+              </div><!-- / .portfolio-item -->
+
+
             </div><!-- / #pfolio -->
           </div><!-- / .row -->
-        </section><!-- / .portfolio-columns-boxed -->
+        </section><!-- / .portfolio-columns-fw -->
+
 
 

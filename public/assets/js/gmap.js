@@ -6,6 +6,8 @@
 
 $(document).ready(function(){
 
+    const lat = 13.8083719;
+    const long = 100.5869686;
 	
 	function initGMap() {
 		'use strict';
@@ -16,7 +18,7 @@ $(document).ready(function(){
 		scrollwheel: false,
 
 		// The latitude and longitude to center the map (always required)
-		center: new google.maps.LatLng(41.880038, -87.601127), // Chicago
+		center: new google.maps.LatLng(lat, long), // Chicago
 
 		// Styling of the map in JSON object
 		styles: [{"featureType":"administrative","elementType":"labels.text.fill","stylers":[{"color":"#444444"}]},{"featureType":"landscape","elementType":"all","stylers":[{"color":"#f2f2f2"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"road","elementType":"all","stylers":[{"saturation":-100},{"lightness":45}]},{"featureType":"road.highway","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"road.arterial","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"water","elementType":"all","stylers":[{"color":"#cdd2d4"},{"visibility":"on"}]}]
@@ -26,7 +28,7 @@ $(document).ready(function(){
 
 		// Map marker 
 		var image = '/assets/images/map-pin.png';
-		var myLatLng = new google.maps.LatLng(41.880038, -87.631127);
+		var myLatLng = new google.maps.LatLng(lat, long);
 		var beachMarker = new google.maps.Marker({
 			position: myLatLng,
 			map: map,
