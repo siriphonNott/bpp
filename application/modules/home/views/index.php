@@ -121,6 +121,8 @@
           </section><!-- / .container -->
         </div><!-- / .gray-bg -->
 
+        <!-- ========== Concept ========== -->
+
         <section class="container ft-steps-numbers">
             <div class="row section">
 
@@ -158,14 +160,12 @@
 
         <div id="skillsCircles" class="circles-counters">
           <div class="container">
-            <div id="counters" class="row count-wrapper">
-
+            <div class="row count-wrapper">
               <!-- Item 1 -->
               <div class="col-sm-6 col-lg-3 circle-item wow zoomIn" data-wow-duration=".3s" data-wow-delay=".2s">
                 <div class="" data-percent="75"><span class=""></span></div>
                 <span class="circle-text"></span>
               </div>
-
 
             </div><!-- / .row -->
           </div><!-- / .container -->
@@ -194,7 +194,6 @@
               <li><a href="#" data-filter=".relaxroom">PRIVATE GARDEN</a></li>
             </ul>
           </div>
-
 
           <div class="row">
             <div id="pfolio">
@@ -379,7 +378,7 @@
         </div><!-- / .testimonials-parallax -->
 
 
-          <!-- ========== Footer Contact ========== -->
+        <!-- ========== Footer Contact ========== -->
 
         <footer id="contact" class="footer-contact">
           <div class="container-fluid">

@@ -4226,6 +4226,7 @@ fieldset[disabled] .form-control:hover {
   background: #ccc url('../images/bg/banner/banner01.jpg');
   background-size: cover;
   background-attachment: fixed;
+  background-position: center;
 }
 
 .circles-counters:before, .circles-counters-dark-bg:before {
