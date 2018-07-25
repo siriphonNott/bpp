@@ -77,12 +77,7 @@
                   ด้วยความความคิด private garden อันโดดเด่นกับสวนตัวหลัวบ้านทุกหลัง<br>
                   รูปแบบบ้านและขนาดจะเหมือนกับโครงการที่แล้วของเรา baan puripuri สตรีวิทยา 2
               </span><br>
-              <p>จำนวน 15 หลัง</p>
-              <p>
-                 ขนาดที่ดิน: เริ่ม 25 ตารางวา<br>
-                 พื้นที่ใช้สอย: 233 ตารางเมตร<br>
-                3 ห้องนอน / 4 ห้องน้ำ / 2 ที่จอดรถ
-              </p>
+
             </header>
 
             <div class="row" style="padding-top: 25px;">
@@ -92,7 +87,7 @@
                   <img src="<?php echo config_item('assets'); ?>images/bg/banner/service01.jpg" alt="service 01">
                   <div class="ft-content">
                     <!-- <h5>Service One</h5> -->
-                    <p>ขนาดที่ดิน :  1 - 2 - 43 ไร่ </p>
+                    <p>ขนาดที่ดิน :  เริ่ม 43 ไร่ </p>
                     <p>จำนวน unit :  15 หลัง </p>
                     <p>Facilities : Security, ไฟฟ้าใต้ดิน, ถนนในโครงการกว้าง 8 เมตร</p>
                     <p>พื้นที่ใช้สอย : 233 ตารางเมตร</p>
@@ -109,22 +104,18 @@
                     <p>หน้ากว้าง : 5.35 เมตร</p>
                     <p>ที่จอดรถ  : 2 คัน</p>
                     <p>ห้องนอน  : 3 ห้อง</p>
+                    <p>ห้องน้ำ   : 4 ห้อง</p>
                   </div>
                 </div><!-- / .ft-card-item -->
               </div><!-- / .col-md-6 -->
             </div><!-- / .row -->
-                <div class="row">
-                    <div class="col-md-12">
-                        <img src="<?php echo config_item('assets'); ?>images/bg/plan/plan.png" width="100%" alt="Feature Image">
-                    </div>
-                </div>
           </section><!-- / .container -->
         </div><!-- / .gray-bg -->
 
         <!-- ========== Concept ========== -->
 
         <section class="container ft-steps-numbers">
-            <div class="row section">
+            <div class="row section" style="padding-bottom:20px;">
 
               <header class="sec-heading ws-s">
                 <h2>Concept</h2>
@@ -153,6 +144,12 @@
               </div>
 
             </div><!-- / .row -->
+
+             <div class="row">
+                <div class="col-md-12">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/plan/plan.png" width="100%" alt="Feature Image">
+                 </div>
+            </div>
 
         </section><!-- / .container -->
 
@@ -187,8 +184,8 @@
           <!-- Filters -->
           <div class="row">
             <ul id="pfolio-filters" class="portfolio-filters">
-              <li class="active"><a href="#" data-filter="*">EXTERIOR</a></li>
-              <li><a href="#" data-filter=".livingroom">KITCHEN & DINING</a></li>
+              <li class=""><a href="#" data-filter=".exterior">EXTERIOR</a></li>
+              <li><a href="#" data-filter=".kitchenDining">KITCHEN & DINING</a></li>
               <li><a href="#" data-filter=".bedroom">MASTER BEDROOM</a></li>
               <li><a href="#" data-filter=".bathroom">MASTER BATHROOM</a></li>
               <li><a href="#" data-filter=".relaxroom">PRIVATE GARDEN</a></li>
@@ -199,130 +196,214 @@
             <div id="pfolio">
 
               <!-- Item 1 -->
-              <div class="col-md-4 portfolio-item livingroom">
+              <div class="col-md-4 portfolio-item exterior">
                 <div class="p-wrapper hover-default">
-                  <img src="<?php echo config_item('assets'); ?>images/bg/project/project20.jpg" alt="project20">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/exterior/01.jpg" alt="project20">
                   <div class="p-hover">
                     <div class="p-content">
                       <!-- <h4>Project Name</h4> -->
                       <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="<?php echo config_item('assets'); ?>images/bg/project/project20.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/exterior/01.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
               <!-- Item 2 -->
-              <div class="col-md-4 portfolio-item livingroom">
+              <div class="col-md-4 portfolio-item exterior">
                 <div class="p-wrapper hover-default">
-                  <img src="<?php echo config_item('assets'); ?>images/bg/project/project21.jpg" alt="project21">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/exterior/02.jpg" alt="project21">
                   <div class="p-hover">
                     <div class="p-content">
                       <!-- <h4>Project Name</h4> -->
                       <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="<?php echo config_item('assets'); ?>images/bg/project/project21.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/exterior/02.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
               <!-- Item 3 -->
-              <div class="col-md-4 portfolio-item bedroom">
+              <div class="col-md-4 portfolio-item exterior">
                 <div class="p-wrapper hover-default">
-                  <img src="<?php echo config_item('assets'); ?>images/bg/project/project40.jpg" alt="project40">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/exterior/03.jpg" alt="project40">
                   <div class="p-hover">
                     <div class="p-content">
                       <!-- <h4>Project Name</h4> -->
                       <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="<?php echo config_item('assets'); ?>images/bg/project/project40.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/exterior/03.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
               <!-- Item 4 -->
-              <div class="col-md-4 portfolio-item bathroom">
+              <div class="col-md-4 portfolio-item kitchenDining" style="">
                 <div class="p-wrapper hover-default">
-                  <img src="<?php echo config_item('assets'); ?>images/bg/project/project50.jpg" alt="project50">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/kitchen-dinner/01.jpg" alt="project50">
                   <div class="p-hover">
                     <div class="p-content">
                       <!-- <h4>Project Name</h4> -->
                       <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="<?php echo config_item('assets'); ?>images/bg/project/project50.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/kitchen-dinner/01.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
               <!-- Item 5 -->
-              <div class="col-md-4 portfolio-item relaxroom">
+              <div class="col-md-4 portfolio-item kitchenDining" style="">
                 <div class="p-wrapper hover-default">
-                  <img src="<?php echo config_item('assets'); ?>images/bg/project/project30.jpg" alt="project30">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/kitchen-dinner/02.jpg" alt="project30">
                   <div class="p-hover">
                     <div class="p-content">
                       <!-- <h4>Project Name</h4> -->
                       <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="<?php echo config_item('assets'); ?>images/bg/project/project30.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/kitchen-dinner/02.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
               <!-- Item 6 -->
-              <div class="col-md-4 portfolio-item relaxroom">
+              <div class="col-md-4 portfolio-item kitchenDining" style="">
                 <div class="p-wrapper hover-default">
-                  <img src="<?php echo config_item('assets'); ?>images/bg/project/project32.jpg" alt="project32">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/kitchen-dinner/03.jpg" alt="project32">
                   <div class="p-hover">
                     <div class="p-content">
                       <!-- <h4>Project Name</h4> -->
                       <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="<?php echo config_item('assets'); ?>images/bg/project/project32.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/kitchen-dinner/03.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
                 <!-- Item 7 -->
-                <div class="col-md-4 portfolio-item relaxroom">
+                <div class="col-md-4 portfolio-item bedroom" style="">
                 <div class="p-wrapper hover-default">
-                  <img src="<?php echo config_item('assets'); ?>images/bg/project/project33.jpg" alt="project33">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/master-bedroom/01.jpg" alt="project33">
                   <div class="p-hover">
                     <div class="p-content">
                       <!-- <h4>Project Name</h4> -->
                       <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="<?php echo config_item('assets'); ?>images/bg/project/project33.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/master-bedroom/01.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
                 <!-- Item 8 -->
-                <div class="col-md-4 portfolio-item bedroom">
+                <div class="col-md-4 portfolio-item bedroom" style="">
                 <div class="p-wrapper hover-default">
-                  <img src="<?php echo config_item('assets'); ?>images/bg/project/project42.jpg" alt="project42">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/master-bedroom/02.jpg" alt="project42">
                   <div class="p-hover">
                     <div class="p-content">
                       <!-- <h4>Project Name</h4> -->
                       <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="<?php echo config_item('assets'); ?>images/bg/project/project42.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/master-bedroom/02.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
                 <!-- Item 9 -->
-                <div class="col-md-4 portfolio-item livingroom">
+                <div class="col-md-4 portfolio-item bedroom" style="">
                 <div class="p-wrapper hover-default">
-                  <img src="<?php echo config_item('assets'); ?>images/bg/project/project22.jpg" alt="project22">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/master-bedroom/03.jpg" alt="project22">
                   <div class="p-hover">
                     <div class="p-content">
                       <!-- <h4>Project Name</h4> -->
                       <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                     </div>
                   </div>
-                  <a href="<?php echo config_item('assets'); ?>images/bg/project/project22.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/master-bedroom/03.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
+
+            <!-- Item 10 -->
+            <div class="col-md-4 portfolio-item bathroom" style="">
+                <div class="p-wrapper hover-default">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/master-bathroom/01.jpg" alt="project22">
+                  <div class="p-hover">
+                    <div class="p-content">
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
+                    </div>
+                  </div>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/master-bedroom/01.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                </div>
+            </div><!-- / .portfolio-item -->
+
+            <!-- Item 11 -->
+            <div class="col-md-4 portfolio-item relaxroom" style="">
+                <div class="p-wrapper hover-default">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/private-garden/01.jpg" alt="project22">
+                  <div class="p-hover">
+                    <div class="p-content">
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
+                    </div>
+                  </div>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/private-garden/01.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                </div>
+            </div><!-- / .portfolio-item -->
+
+            <!-- Item 12 -->
+            <div class="col-md-4 portfolio-item relaxroom" style="">
+                <div class="p-wrapper hover-default">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/private-garden/02.jpg" alt="project22">
+                  <div class="p-hover">
+                    <div class="p-content">
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
+                    </div>
+                  </div>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/private-garden/02.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                </div>
+            </div><!-- / .portfolio-item -->
+
+            <!-- Item 13 -->
+            <div class="col-md-4 portfolio-item relaxroom" style="">
+                <div class="p-wrapper hover-default">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/private-garden/03.jpg" alt="project22">
+                  <div class="p-hover">
+                    <div class="p-content">
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
+                    </div>
+                  </div>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/private-garden/03.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                </div>
+            </div><!-- / .portfolio-item -->
+
+            <!-- Item 14 -->
+            <div class="col-md-4 portfolio-item relaxroom" style="">
+                <div class="p-wrapper hover-default">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/private-garden/04.jpg" alt="project22">
+                  <div class="p-hover">
+                    <div class="p-content">
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
+                    </div>
+                  </div>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/private-garden/04.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                </div>
+            </div><!-- / .portfolio-item -->
+
+            <!-- Item 15 -->
+            <div class="col-md-4 portfolio-item relaxroom" style="">
+                <div class="p-wrapper hover-default">
+                  <img src="<?php echo config_item('assets'); ?>images/bg/project/private-garden/05.jpg" alt="project22">
+                  <div class="p-hover">
+                    <div class="p-content">
+                      <!-- <h4>Project Name</h4> -->
+                      <!-- <h6 class="subheading">Sub heading for the project</h6> -->
+                    </div>
+                  </div>
+                  <a href="<?php echo config_item('assets'); ?>images/bg/project/private-garden/05.jpg" class="open-btn open-gallery"><i class="fa fa-expand"></i></a>
+                </div>
+            </div><!-- / .portfolio-item -->
 
             </div><!-- / #pfolio -->
           </div><!-- / .row -->
@@ -385,7 +466,7 @@
             <div class="row">
 
                 <!-- location -->
-              <div class="col-lg-6  section location">
+              <div class="col-lg-6  section location" style="padding-top:9%;">
                   <img src="<?php echo config_item('assets'); ?>/images/bg/map/map.jpg" width="100%" alt="">
               </div><!-- / .col-lg-6 -->
 

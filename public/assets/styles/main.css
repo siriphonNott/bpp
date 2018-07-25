@@ -195,6 +195,9 @@ _____________________________________________________
 /* --------------------------------------------------
 	0.2 Utility
 -------------------------------------------------- */
+html {
+    font-family: 'sukhumvit_setlight'!important;
+}
 hr {
   margin-top: 0;
   margin-bottom: 0;
@@ -1192,7 +1195,7 @@ hr {
   background: #111;
   font-size: 11px;
   letter-spacing: 1.8px;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   text-transform: uppercase;
   opacity: .5;
   z-index: 800;
@@ -1253,7 +1256,7 @@ mark {
 
 /* ---- 1.1 Text ---- */
 body, .testimonials-3col .t-item blockquote, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 300;
   letter-spacing: 0.2px;
@@ -1285,7 +1288,7 @@ h6, .progress-group .progress-title,
 .progress-group .progress-value, .accordions-1 .panel .panel-heading .panel-title, .footer-social-links ul li, .footer-contact .contact-info .show-info-link, .footer-contact .contact-info address ul li .adr-heading, .footer-contact .contact-info address .show-map, .footer-litle address ul li .adr-group .adr-heading, .ft-cards .ft-item a, .ft-cards-2 .ft-card-item .ft-content .link-btn, .ft-boxed-hover ul li .hover-content a, .circles-counters .circle-item .circle-text, .circles-counters-dark-bg .circle-item .circle-text, .number-counters .count-wrapper .count-item .count-text, .number-counters-dark-bg .count-wrapper .count-item .count-text, .project-nav nav .nav-btns li a, .pricing-tables .p-table .desc, .blog-post-nav .prev-btn,
 .blog-post-nav .next-btn, .sidebar .tags-widget .tag-list li a, .contact-1 .contact-wrapper .contact-info-wrapper address .address-group span, .contact-1 .contact-wrapper .contact-info-wrapper address .address-group a,
 .contact-1 .contact-wrapper .contact-info-wrapper address .address-group p, .contact-1 .contact-wrapper .contact-info-wrapper address .show-map-link a, .landing-hero .heading-wrapper .cta-btn, .shop-sidebar .filter-widget label, .shop-sidebar-vertical .filter-widget label, .shop-sidebar .tags-widget .tag-list li a, .shop-sidebar-vertical .tags-widget .tag-list li a, .checkout-table tbody tr td:first-child, .prod-reviews .tp-review .tpr-name {
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   color: #111;
   text-transform: uppercase;
 }
@@ -1466,7 +1469,7 @@ blockquote footer cite, .wrapper-404 .content-wrapper .info-wrapper .info-404 fo
   padding: 8px 38px;
   background: #111;
   color: #ececec;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight", "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   text-transform: uppercase;
   letter-spacing: 2.5px;
   font-size: 0.9em;
@@ -1678,7 +1681,7 @@ input[class="btn-ghost-light"]:hover {
   height: 42px;
   width: 42px;
   line-height: 1.9em;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   color: #777;
 }
 
@@ -1766,7 +1769,7 @@ fieldset[disabled] .form-control:hover {
 
 .form-group label {
   font-size: .8em;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #111;
@@ -1785,7 +1788,7 @@ fieldset[disabled] .form-control:hover {
 
 .progress .progress-bar {
   background: #111;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 13px;
   line-height: 1.9em;
   letter-spacing: 1px;
@@ -2125,7 +2128,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .copyright small {
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: .8em;
   text-transform: uppercase;
   letter-spacing: 1.3px;
@@ -2701,7 +2704,7 @@ fieldset[disabled] .form-control:hover {
 
 .navbar .navbar-nav .dropdown .dropdown-menu .dropdown-header {
   padding: 0 25px;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family:"sukhumvit_setlight", "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 0.8em;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -2838,7 +2841,7 @@ fieldset[disabled] .form-control:hover {
   padding: 8px 38px;
   background: #111;
   color: #ececec;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   text-transform: uppercase;
   letter-spacing: 2.5px;
   font-size: 0.9em;
@@ -4180,7 +4183,7 @@ fieldset[disabled] .form-control:hover {
   border-radius: 0;
   border: none;
   border-top: 1px solid transparent;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 11px;
   letter-spacing: 2px;
   color: #999;
@@ -4588,7 +4591,7 @@ fieldset[disabled] .form-control:hover {
 
 .testimonials-3col .t-item blockquote footer cite span, .testimonials-3col .t-item .wrapper-404 .content-wrapper .info-wrapper .info-404 footer cite span, .wrapper-404 .content-wrapper .info-wrapper .testimonials-3col .t-item .info-404 footer cite span, .testimonials-3col .t-item .bg-maintenance .content-wrapper .content-inner p footer cite span, .bg-maintenance .content-wrapper .content-inner .testimonials-3col .t-item p footer cite span {
   display: block;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   letter-spacing: 2px;
   color: #111;
 }
@@ -6271,7 +6274,7 @@ fieldset[disabled] .form-control:hover {
 
 .pricing-tables .p-table .price .value {
   display: inline-block;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 70px;
   color: #111;
 }
@@ -6867,7 +6870,7 @@ fieldset[disabled] .form-control:hover {
   margin-left: 30px;
   margin-right: 30px;
   text-transform: uppercase;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: .8em;
   letter-spacing: 1.5px;
   color: #ccc;
@@ -7775,7 +7778,7 @@ form .input-error-2:focus {
 
 .scroller .scroller-text {
   display: block;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 10px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
@@ -8461,7 +8464,7 @@ form .input-error-2:focus {
 
 .agency2-hero .hero-content-wrapper .hero-content .hero-lead {
   margin-top: 0;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 4em;
   font-weight: 400;
   letter-spacing: 10px;
@@ -8719,7 +8722,7 @@ form .input-error-2:focus {
 
 .web-app-hero .hero-content-wrapper .hero-content .hero-lead {
   margin-top: 0;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family:"sukhumvit_setlight", "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 70px;
   letter-spacing: 10px;
 }
@@ -9876,7 +9879,7 @@ form .input-error-2:focus {
   padding-top: 23px;
   padding-bottom: 23px;
   border: none;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 11px !important;
   font-weight: 400 !important;
   letter-spacing: 2px;
@@ -10057,7 +10060,7 @@ form .input-error-2:focus {
   margin: 0;
   text-align: right;
   float: right;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 13px;
   letter-spacing: 2px;
 }
@@ -10318,7 +10321,7 @@ form .input-error-2:focus {
 .table thead tr th {
   padding: 15px;
   border: none;
-  font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "sukhumvit_setlight","Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 11px !important;
   font-weight: 400 !important;
   letter-spacing: 2px;
@@ -10394,6 +10397,7 @@ form .input-error-2:focus {
 
 .section {
     padding-top: 50px;
+    padding-bottom: 30px;
 }
     
 .portfolio-columns-fw, .portfolio-columns-boxed {
@@ -10423,4 +10427,8 @@ form .input-error-2:focus {
 
 .navbar-static-top.nav-home {
     min-height: 50px;
+}
+
+.footer-contact .contact-info address {
+    padding: 150px 100px 0 130px;
 }

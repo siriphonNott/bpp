@@ -41,6 +41,8 @@ if ($this->router->fetch_class() === 'home' || $this->router->fetch_class() === 
         <!-- Definity CSS -->
         <link rel="stylesheet" href="<?php echo config_item('assets'); ?>styles/main.css">
         <link rel="stylesheet" href="<?php echo config_item('assets'); ?>styles/responsive.css">
+        <!-- Font -->
+        <link rel="stylesheet" href="<?php echo config_item('assets'); ?>styles/fonts/sukhumvitSet/stylesheet.css">
 
         <!-- JS -->
         <script src="<?php echo config_item('assets'); ?>js/vendor/modernizr-2.8.3.min.js"></script>
@@ -69,7 +71,7 @@ if ($this->router->fetch_class() === 'home' || $this->router->fetch_class() === 
               </button>
 
               <!-- Logo -->
-              <a class="navbar-brand" href="<?php echo base_url(); ?>"><img class="navbar-logo" src="<?php echo config_item('assets'); ?>images/logo.png" alt="Definity - Logo"></a>
+              <a class="navbar-brand" href="<?php echo base_url(); ?>"><img class="navbar-logo" src="<?php echo config_item('assets'); ?>images/logo.png" alt="bpp Logo" width="50%" ></a>
             </div><!-- / .navbar-header -->
 
             <!-- Navbar Links -->
