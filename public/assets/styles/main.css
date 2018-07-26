@@ -10455,13 +10455,12 @@ form .input-error-2:focus {
     text-align:center;
 }
 
-.comingsoon-2 .content-wrapper {
-    padding-top: 15%;
-}
-
 @media (max-width: 500px) {
    .navbar-brand {
         margin-left: 0px!important;
         position: absolute;
    }
+   .comingsoon-2 .content-wrapper {
+        padding-top: 15%;
+    }
 }
