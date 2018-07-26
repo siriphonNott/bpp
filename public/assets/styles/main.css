@@ -10402,6 +10402,7 @@ form .input-error-2:focus {
     
 .portfolio-columns-fw, .portfolio-columns-boxed {
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .info .sec-heading {
@@ -10431,4 +10432,25 @@ form .input-error-2:focus {
 
 .footer-contact .contact-info address {
     padding: 150px 100px 0 130px;
+}
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.description-video {
+    border: solid 1px #dfdfdf;
+    box-shadow: 3px 3px 5px 1px rgba(225, 221, 221, 0.4);
+    padding: 10px 10px 0 10px;
+    text-align:center;
 }

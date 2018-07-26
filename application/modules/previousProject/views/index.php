@@ -183,7 +183,7 @@
                 </div>
               </div><!-- / .portfolio-item -->
 
-               <!-- Item 11 --> 
+               <!-- Item 11 -->
                <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
                   <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/01.jpg" alt="project20">
@@ -197,7 +197,7 @@
                 </div>
               </div><!-- / .portfolio-item -->
 
-                <!-- Item 12 --> 
+                <!-- Item 12 -->
                 <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
                   <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/02.jpg" alt="project20">
@@ -211,7 +211,7 @@
                 </div>
               </div><!-- / .portfolio-item -->
 
-                <!-- Item 13 --> 
+                <!-- Item 13 -->
                 <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
                   <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/03.jpg" alt="project20">
@@ -225,7 +225,7 @@
                 </div>
               </div><!-- / .portfolio-item -->
 
-                <!-- Item 14 --> 
+                <!-- Item 14 -->
                 <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
                   <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/04.jpg" alt="project20">
@@ -239,7 +239,7 @@
                 </div>
               </div><!-- / .portfolio-item -->
 
-                <!-- Item 15 --> 
+                <!-- Item 15 -->
                 <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
                   <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/05.jpg" alt="project20">
@@ -253,7 +253,7 @@
                 </div>
               </div><!-- / .portfolio-item -->
 
-                <!-- Item 16 --> 
+                <!-- Item 16 -->
                 <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
                   <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/06.jpg" alt="project20">
@@ -267,7 +267,7 @@
                 </div>
               </div><!-- / .portfolio-item -->
 
-                <!-- Item 17 --> 
+                <!-- Item 17 -->
                 <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
                   <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/07.jpg" alt="project20">
@@ -281,7 +281,7 @@
                 </div>
               </div><!-- / .portfolio-item -->
 
-                <!-- Item 18 --> 
+                <!-- Item 18 -->
                 <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
                   <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/08.jpg" alt="project20">
@@ -295,10 +295,72 @@
                 </div>
               </div><!-- / .portfolio-item -->
 
-
             </div><!-- / #pfolio -->
           </div><!-- / .row -->
         </section><!-- / .portfolio-columns-fw -->
 
+         <!-- Publication -->
+         <section  class="container-fluid portfolio-layout portfolio-columns-fw">
+                <header class="sec-heading" style="margin-bottom: 80px; margin-top: 50px;">
+                    <h1>Publication</h1>
+                    <span class="subheading">previous project</span>
+                </header>
 
+                <div class="row" style="margin-bottom:20px;">
+                    <div class="col-md-3 col-md-3 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe width="420" height="315" src="http://www.youtube.com/embed/ew9NUrRojlg" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="description-video">
+                            <p>"รีวิวทาวน์โฮม บ้านภูริปุรี สตรีวิทยา 2"</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe width="420" height="315" src="http://www.youtube.com/embed/QnVfh1NeGdw" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                            <div class="description-video">
+                                <p>"รPrivate Backyard"</p>
+                            </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe width="420" height="315" src="http://www.youtube.com/embed/vU3b9PMAm-E" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="description-video">
+                            <p>"Master Bedroom ในทาวน์โฮม"</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe width="420" height="315" src="http://www.youtube.com/embed/mCu-sTBKqBE" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="description-video">
+                            <p>"ครัวชั้น 2 ของทาวน์โฮม"</p>
+                        </div>
+                    </div>
+                </div><!-- / .row -->
+
+                <div class="row" style="margin-bottom:20px;">
+                    <div class="col-md-3 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe width="420" height="315" src="http://www.youtube.com/embed/0kxjCjrYwgQ" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="description-video">
+                            <p>"รออกแบบห้องน้ำไว้หน้าบ้าน"</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe width="420" height="315" src="http://www.youtube.com/embed/MJgNJiaXaCI" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="description-video">
+                            <p>"จัดการกับงานระบบ"</p>
+                        </div>
+                    </div>
+                </div><!-- / .row -->
+
+
+
+            </section><!-- / .container -->
 
