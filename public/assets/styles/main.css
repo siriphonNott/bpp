@@ -10455,6 +10455,10 @@ form .input-error-2:focus {
     text-align:center;
 }
 
+.comingsoon-2 .content-wrapper {
+    padding-top: 10%;
+}
+
 @media (max-width: 500px) {
    .navbar-brand {
         margin-left: 0px!important;
