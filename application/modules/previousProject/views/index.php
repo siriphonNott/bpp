@@ -309,7 +309,7 @@
                 <div class="row" style="margin-bottom:20px;">
                     <div class="col-md-3 col-md-3 col-sm-12">
                         <div class="video-responsive">
-                            <iframe width="420" height="315" src="http://www.youtube.com/embed/ew9NUrRojlg" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/ew9NUrRojlg" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="description-video">
                             <p>"รีวิวทาวน์โฮม บ้านภูริปุรี สตรีวิทยา 2"</p>
@@ -317,7 +317,7 @@
                     </div>
                     <div class="col-md-3 col-sm-12">
                         <div class="video-responsive">
-                            <iframe width="420" height="315" src="http://www.youtube.com/embed/QnVfh1NeGdw" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/QnVfh1NeGdw" frameborder="0" allowfullscreen></iframe>
                             </div>
                             <div class="description-video">
                                 <p>"รPrivate Backyard"</p>
@@ -325,7 +325,7 @@
                     </div>
                     <div class="col-md-3 col-sm-12">
                         <div class="video-responsive">
-                            <iframe width="420" height="315" src="http://www.youtube.com/embed/vU3b9PMAm-E" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/vU3b9PMAm-E" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="description-video">
                             <p>"Master Bedroom ในทาวน์โฮม"</p>
@@ -333,7 +333,7 @@
                     </div>
                     <div class="col-md-3 col-sm-12">
                         <div class="video-responsive">
-                            <iframe width="420" height="315" src="http://www.youtube.com/embed/mCu-sTBKqBE" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/mCu-sTBKqBE" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="description-video">
                             <p>"ครัวชั้น 2 ของทาวน์โฮม"</p>
@@ -344,7 +344,7 @@
                 <div class="row" style="margin-bottom:20px;">
                     <div class="col-md-3 col-sm-12">
                         <div class="video-responsive">
-                            <iframe width="420" height="315" src="http://www.youtube.com/embed/0kxjCjrYwgQ" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/0kxjCjrYwgQ" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="description-video">
                             <p>"รออกแบบห้องน้ำไว้หน้าบ้าน"</p>
@@ -352,7 +352,7 @@
                     </div>
                     <div class="col-md-3 col-sm-12">
                         <div class="video-responsive">
-                            <iframe width="420" height="315" src="http://www.youtube.com/embed/MJgNJiaXaCI" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/MJgNJiaXaCI" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="description-video">
                             <p>"จัดการกับงานระบบ"</p>
