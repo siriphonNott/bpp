@@ -87,8 +87,8 @@
                   <img src="<?php echo config_item('assets'); ?>images/bg/banner/service01.jpg" alt="service 01">
                   <div class="ft-content">
                     <!-- <h5>Service One</h5> -->
-                    <p>ขนาดที่ดิน :  เริ่ม 43 ตารางวา </p>
-                    <p>จำนวน unit :  15 หลัง </p>
+                    <p>ขนาดที่ดิน :  เริ่ม 25 ตารางวา </p>
+                    <p>จำนวนยูนิต :  15 หลัง </p>
                     <p>Facilities : Security, ไฟฟ้าใต้ดิน, ถนนในโครงการกว้าง 8 เมตร</p>
                     <p>พื้นที่ใช้สอย : 233 ตารางเมตร</p>
                   </div>

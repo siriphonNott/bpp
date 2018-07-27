@@ -320,7 +320,7 @@
                             <iframe width="420" height="315" src="https://www.youtube.com/embed/QnVfh1NeGdw" frameborder="0" allowfullscreen></iframe>
                             </div>
                             <div class="description-video">
-                                <p>"รPrivate Backyard"</p>
+                                <p>"Private Backyard"</p>
                             </div>
                     </div>
                     <div class="col-md-3 col-sm-12">
