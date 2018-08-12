@@ -74,7 +74,7 @@
             <header class="sec-heading">
               <h1>พบกับโครงการใหม่ล่าสุดของเรา baan puripuri ลาดพร้าว 41<br>ราคาเริ่มต้น 9.7 ล้านบาท*</h1>
               <span class="subheading">
-                  ด้วยความความคิด private garden อันโดดเด่นกับสวนตัวหลัวบ้านทุกหลัง<br>
+                  ด้วยความความคิด private garden อันโดดเด่นกับสวนตัวหลังบ้านทุกหลัง<br>
                   รูปแบบบ้านและขนาดจะเหมือนกับโครงการที่แล้วของเรา baan puripuri สตรีวิทยา 2
               </span><br>
 
@@ -87,10 +87,10 @@
                   <img src="<?php echo config_item('assets'); ?>images/bg/banner/service01.jpg" alt="service 01">
                   <div class="ft-content">
                     <!-- <h5>Service One</h5> -->
-                    <p>ขนาดที่ดิน :  เริ่ม 25 ตารางวา </p>
-                    <p>จำนวนยูนิต :  15 หลัง </p>
-                    <p>Facilities : Security, ไฟฟ้าใต้ดิน, ถนนในโครงการกว้าง 8 เมตร</p>
-                    <p>พื้นที่ใช้สอย : 233 ตารางเมตร</p>
+                    <div><div class="info-list-item">ขนาดที่ดิน </div>:  เริ่ม 25 ตารางวา </div>
+                    <div><div class="info-list-item">จำนวนยูนิต </div>:  15 หลัง </div>
+                    <div><div class="info-list-item">Facilities </div>: Security, ไฟฟ้าใต้ดิน, ถนนในโครงการกว้าง 8 เมตร</div>
+                    <div><div class="info-list-item">พื้นที่ใช้สอย </div>: 233 ตารางเมตร</div>
                   </div>
                 </div><!-- / .ft-card-item -->
               </div>
@@ -100,11 +100,11 @@
                   <img src="<?php echo config_item('assets'); ?>images/bg/banner/service02.jpg" alt="plan">
                   <div class="ft-content">
                     <!-- <h5>Service Three</h5> -->
-                    <p>จำนวนชั้น : 3 ชั้นครึ่ง</p>
-                    <p>หน้ากว้าง : 5.35 เมตร</p>
-                    <p>ที่จอดรถ  : 2 คัน</p>
-                    <p>ห้องนอน  : 3 ห้อง</p>
-                    <p>ห้องน้ำ   : 4 ห้อง</p>
+                    <div><div class="info-list-item">จำนวนชั้น</div>: 3 ชั้นครึ่ง</div>
+                    <div><div class="info-list-item">หน้ากว้าง</div>: 5.35 เมตร</div>
+                    <div><div class="info-list-item">ที่จอดรถ</div>: 2 คัน</div>
+                    <div><div class="info-list-item">ห้องนอน</div>: 3 ห้อง</div>
+                    <div><div class="info-list-item">ห้องน้ำ</div>: 4 ห้อง</div>
                   </div>
                 </div><!-- / .ft-card-item -->
               </div><!-- / .col-md-6 -->
@@ -415,45 +415,67 @@
         <div class="testimonials-parallax">
           <div class="bg-overlay">
 
-            <div class="t-wrapper t-slider">
+          <!-- Publication -->
+         <section  class="container-fluid portfolio-layout portfolio-columns-fw">
+                <header class="sec-heading review-header">
+                    <h1>Review</h1>
+                    <span class="subheading"></span>
+                </header>
 
-              <!-- Testimonial 1 -->
-              <blockquote>
-                ห้องดีมาก บริการดีครับ
-                <span class="et-quote t-type"></span>
-                <footer>
-                  <cite>
-                    <h5 class="h-alt">John Smith</h5>
-                    <!-- <h5>John Smith</h5> -->
-                  </cite>
-                </footer>
-              </blockquote>
+                <div class="row" style="margin-bottom:20px;">
+                    <div class="col-md-4 col-md-4 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/ew9NUrRojlg" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="description-video">
+                            <p>"รีวิวทาวน์โฮม บ้านภูริปุรี สตรีวิทยา 2"</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/QnVfh1NeGdw" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                            <div class="description-video">
+                                <p>"Private Backyard"</p>
+                            </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/vU3b9PMAm-E" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="description-video">
+                            <p>"Master Bedroom ในทาวน์โฮม"</p>
+                        </div>
+                    </div>
+                </div><!-- / .row -->
 
-              <!-- Testimonial 2 -->
-              <blockquote>
-                ดีไซด์ ดูทันสมัย หรูหรา ถูกใจมากๆ
-                <span class="et-quote t-type"></span>
-                <footer>
-                  <cite>
-                    <h5 class="h-alt">Susan Cavin</h5>
-                    <!-- <h5>Susan</h5> -->
-                  </cite>
-                </footer>
-              </blockquote>
-
-              <!-- Testimonial 3 -->
-              <blockquote>
-                 บริการดีมากครับ
-                <span class="et-quote t-type"></span>
-                <footer>
-                  <cite>
-                    <h5 class="h-alt">Sunida</h5>
-                    <!-- <h5>CEO - Company Name</h5> -->
-                  </cite>
-                </footer>
-              </blockquote>
-
-            </div><!-- / .t-wrapper -->
+                <div class="row" style="margin-bottom:20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/mCu-sTBKqBE" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="description-video">
+                            <p>"ครัวชั้น 2 ของทาวน์โฮม"</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/0kxjCjrYwgQ" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="description-video">
+                            <p>"รออกแบบห้องน้ำไว้หน้าบ้าน"</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/MJgNJiaXaCI" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="description-video">
+                            <p>"จัดการกับงานระบบ"</p>
+                        </div>
+                    </div>
+                </div><!-- / .row -->
+            </section><!-- / .container -->
 
           </div><!-- / .bg-overlay -->
         </div><!-- / .testimonials-parallax -->
@@ -476,7 +498,9 @@
                 <!-- Show Info Button -->
                 <a href="#" class="show-info-link"><i class="fa fa-info"></i>Show info</a>
 
-                <div id="map-canvas" class="footer-map"></div>
+                <div class="google-maps footer-map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3874.515534996632!2d100.58638651422457!3d13.808053287030855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29dae770858f9%3A0x671d89bdbe77fc02!2zYmFhbiBwdXJpcHVyaSA6IOC4peC4suC4lOC4nuC4o-C5ieC4suC4pyA0MQ!5e0!3m2!1sen!2sth!4v1534064008981" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </div>
 
                 <address class="contact-info-wrapper">
                   <ul>
@@ -519,7 +543,7 @@
 
                 <ul>
                   <li><a target="_blank" href="http://www.facebook.com/baanpuripuri">facebook</a></li>
-                  <li><a href="#">Youtube</a></li>
+                  <li><a target="_blank" href="https://www.youtube.com/watch?v=ew9NUrRojlg">Youtube</a></li>
                 </ul>
 
               </div>

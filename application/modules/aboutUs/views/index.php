@@ -6,7 +6,7 @@
 
                 <div class="col-sm-6">
                   <h1>About Us</h1>
-                  <span class="subheading">Few words about us</span>
+                  <span class="subheading"></span>
                 </div>
                 <ol class="col-sm-6 text-right breadcrumb">
                    <li><a href="<?php echo base_url(); ?>">Home</a></li>
@@ -25,7 +25,7 @@
 
             <header class="sec-heading">
               <h2>About baan puripuri</h2>
-              <span class="subheading">The beat of Townhome</span>
+              <span class="subheading"></span>
             </header>
 
             <div class="col-md-offset-1 col-md-10">
@@ -44,7 +44,7 @@
           </div><!-- / .row -->
           <div class="row ws-m">
             <div class="col-md-12 text-center">
-              <a class="btn-text">Thank You -)</a>
+              <a class="btn-text"></a>
             </div>
           </div>
         </section><!-- / .container -->

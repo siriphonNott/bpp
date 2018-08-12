@@ -10455,6 +10455,22 @@ form .input-error-2:focus {
     text-align:center;
 }
 
+.sec-heading h1, .sec-heading h2{
+    text-transform: unset;
+}
+
+.info-list-item {
+    display: inline-block;
+    width: 80px;
+}
+.review-header {
+    margin-bottom: 60px;
+    margin-top: 50px; 
+}
+.review-header h1 {
+    color:white!important;
+}
+
 @media (max-width: 500px) {
    .navbar-brand {
         margin-left: 0px!important;

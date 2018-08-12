@@ -6,7 +6,7 @@
 
                 <div class="col-sm-6">
                   <h1>JOIN US</h1>
-                  <span class="subheading">Love to hear from you</span>
+                  <span class="subheading"></span>
                 </div>
                 <ol class="col-sm-6 text-right breadcrumb">
                   <li><a href="<?php echo base_url(); ?>">Home</a></li>

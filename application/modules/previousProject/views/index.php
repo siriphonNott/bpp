@@ -6,7 +6,7 @@
 
                 <div class="col-sm-6">
                   <h1>previous project</h1>
-                  <span class="subheading">Last projects</span>
+                  <span class="subheading"></span>
                 </div>
                 <ol class="col-sm-6 text-right breadcrumb">
                    <li><a href="<?php echo base_url(); ?>">Home</a></li>
@@ -298,69 +298,3 @@
             </div><!-- / #pfolio -->
           </div><!-- / .row -->
         </section><!-- / .portfolio-columns-fw -->
-
-         <!-- Publication -->
-         <section  class="container-fluid portfolio-layout portfolio-columns-fw">
-                <header class="sec-heading" style="margin-bottom: 80px; margin-top: 50px;">
-                    <h1>Publication</h1>
-                    <span class="subheading">previous project</span>
-                </header>
-
-                <div class="row" style="margin-bottom:20px;">
-                    <div class="col-md-3 col-md-3 col-sm-12">
-                        <div class="video-responsive">
-                            <iframe width="420" height="315" src="https://www.youtube.com/embed/ew9NUrRojlg" frameborder="0" allowfullscreen></iframe>
-                        </div>
-                        <div class="description-video">
-                            <p>"รีวิวทาวน์โฮม บ้านภูริปุรี สตรีวิทยา 2"</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-12">
-                        <div class="video-responsive">
-                            <iframe width="420" height="315" src="https://www.youtube.com/embed/QnVfh1NeGdw" frameborder="0" allowfullscreen></iframe>
-                            </div>
-                            <div class="description-video">
-                                <p>"Private Backyard"</p>
-                            </div>
-                    </div>
-                    <div class="col-md-3 col-sm-12">
-                        <div class="video-responsive">
-                            <iframe width="420" height="315" src="https://www.youtube.com/embed/vU3b9PMAm-E" frameborder="0" allowfullscreen></iframe>
-                        </div>
-                        <div class="description-video">
-                            <p>"Master Bedroom ในทาวน์โฮม"</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-12">
-                        <div class="video-responsive">
-                            <iframe width="420" height="315" src="https://www.youtube.com/embed/mCu-sTBKqBE" frameborder="0" allowfullscreen></iframe>
-                        </div>
-                        <div class="description-video">
-                            <p>"ครัวชั้น 2 ของทาวน์โฮม"</p>
-                        </div>
-                    </div>
-                </div><!-- / .row -->
-
-                <div class="row" style="margin-bottom:20px;">
-                    <div class="col-md-3 col-sm-12">
-                        <div class="video-responsive">
-                            <iframe width="420" height="315" src="https://www.youtube.com/embed/0kxjCjrYwgQ" frameborder="0" allowfullscreen></iframe>
-                        </div>
-                        <div class="description-video">
-                            <p>"รออกแบบห้องน้ำไว้หน้าบ้าน"</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-12">
-                        <div class="video-responsive">
-                            <iframe width="420" height="315" src="https://www.youtube.com/embed/MJgNJiaXaCI" frameborder="0" allowfullscreen></iframe>
-                        </div>
-                        <div class="description-video">
-                            <p>"จัดการกับงานระบบ"</p>
-                        </div>
-                    </div>
-                </div><!-- / .row -->
-
-
-
-            </section><!-- / .container -->
-
