@@ -10509,6 +10509,10 @@ form .input-error-2:focus {
     padding-left: 80px!important;
 }
 
+.nobody {
+    display:none;
+}
+
 /*--  Responsive ---*/
 @media (max-width: 1260px) {
     .section {

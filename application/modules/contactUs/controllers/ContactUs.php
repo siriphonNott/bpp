@@ -10,9 +10,12 @@ class ContactUs extends MY_Controller
     }
     public function index()
     {
+        // echo config_item('assets');
+        // exit();
         $this->data['baseConfig']['subTitle'] = 'Contact Us';
         $this->layout_library
             ->setTitle('Contact Us')
+            ->setJavascript(config_item('assets') . 'js/pages/contactUs.js')
             ->view('index', $this->data);
     }
 }

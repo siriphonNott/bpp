@@ -30,39 +30,41 @@
                     <p>Email: Sales@baanpuripuri.com</p>
                   </div>
 
-                  <form action="../assets/contact-form/contact-form.php" method="POST" class="form-minimal form-ajax">
+                  <form class="form-minimal contact-form">
 
                     <!-- Name -->
                     <div class="form-group">
-                      <input type="text" name="name" id="name-contact-3" class="form-control validate-locally">
+                      <input type="text" name="name" id="name-contact-3" class="form-control validate-locally" placeholder="Enter your name">
                       <label for="name-contact-3">Name *</label>
                       <span class="pull-right alert-error"></span>
                     </div>
 
                     <!-- Email -->
                     <div class="form-group">
-                      <input type="email" name="email" id="email-contact-3" class="form-control validate-locally">
+                      <input type="email" name="email" id="email-contact-3" class="form-control validate-locally" placeholder="Enter your email">
                       <label for="email-contact-3">Email *</label>
                       <span class="pull-right alert-error"></span>
                     </div>
 
                     <!-- Phone -->
-                    <div class="form-group ws-s">
-                      <input type="tel" name="phone" id="phone-contact-3" class="form-control">
+                    <div class="form-group">
+                      <input type="tel" name="phone" id="phone-contact-3" maxlength="11" class="form-control allownumericwithoutdecimal" placeholder="Enter your phone">
                       <label for="email-contact-3">Phone</label>
                     </div>
 
                     <!-- Message -->
                     <div class="form-group">
-                      <p>Put your message here.</p>
-                      <textarea class="form-control" name="message" id="message-contact-1" rows="5"></textarea>
+                      <textarea class="form-control" name="message" id="message-contact-1" rows="5" placeholder="Put your message here"></textarea>
                       <label for="message-contact-1">Message *</label>
                     </div>
 
                     <input type="submit" class="btn-text" value="Send Message">
 
                     <!-- Ajax Message -->
-                    <div class="ajax-message"></div>
+                    <div class="ajax-message alert alert-danger alert-dismissible wow fadeInUp nobody" role="alert">
+                        <!-- <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button> -->
+                        <div id="ajax-message"></div>
+                    </div>
 
                   </form>
                 </div>
