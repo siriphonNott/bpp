@@ -1,5 +1,11 @@
-var $form = $('form.contact-form'),
-    url = 'https://script.google.com/macros/s/AKfycbyyjFANzeWN277w2hYZEV7ywjPaig-UpUoz8bAN-cTUsS4-I_Q/exec'
+var $form = $('form.contact-form')
+var baseUrl = window.location.origin;
+console.log(baseUrl);
+
+var url = {
+    googleSheet: 'https://script.google.com/macros/s/AKfycbyyjFANzeWN277w2hYZEV7ywjPaig-UpUoz8bAN-cTUsS4-I_Q/exec',
+    lineNoti:`${baseUrl}/contact-us/lineNoti`
+}
 
 $.fn.serializeObject = function () {
     var o = {};
@@ -57,13 +63,25 @@ $('.contact-form').on('submit', function (e) {
     $submitButton.attr('value', 'SENDING...');
     var jsonBody = $form.serializeObject();
     let checkForm = validate(jsonBody);
+    
     if (checkForm === true) {
         var jqxhr = $.ajax({
-            url: url,
+            url: url.googleSheet,
             method: "GET",
             dataType: "json",
             data: jsonBody
         });
+
+        $.ajax({
+            url: url.lineNoti,
+            method: "POST",
+            dataType: "json",
+            data: jsonBody,
+            success: function(e) {
+                console.log(e);
+            }
+        });
+
         jqxhr.done(function (response, textStatus, jqXHR) {
             showMessage('Send successfully.', true);
         });

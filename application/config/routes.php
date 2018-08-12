@@ -60,6 +60,7 @@ $route['about-us'] = 'aboutUs';
 $route['previous-project'] = 'previousProject';
 $route['previous-project/portfolio/(:any)'] = 'previousProject/portfolio';
 $route['contact-us'] = 'contactUs';
+$route['contact-us/lineNoti'] = 'contactUs/LineNoti';
 $route['join-us'] = 'joinUs';
 
 //Page Not Fond
