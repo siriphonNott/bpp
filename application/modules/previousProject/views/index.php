@@ -25,7 +25,7 @@
     <div class="row">
         <header class="sec-heading">
             <h2>our previous project</h2>
-            <span class="subheading">Last project</span>
+            <span class="subheading"></span>
         </header>
     </div>
     <!-- / .row -->
