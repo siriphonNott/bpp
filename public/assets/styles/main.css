@@ -10501,6 +10501,21 @@ form .input-error-2:focus {
     width: 100% !important;
     height: 100% !important;
 }
+#concept.container-fluid {
+    padding: 0;
+}
+
+.info .ft-card-item .ft-content.info-content-rigth {
+    padding-left: 80px!important;
+}
+
+/*--  Responsive ---*/
+@media (max-width: 1260px) {
+    .section {
+        padding-left: 0px;
+        padding-right: 0px!important;
+    }
+}
 @media (max-width: 500px) {
    .navbar-brand {
         margin-left: 0px!important;

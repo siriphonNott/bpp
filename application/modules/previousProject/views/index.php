@@ -24,7 +24,7 @@
 <section id="portfolio" class="container-fluid portfolio-layout portfolio-columns-fw">
     <div class="row">
         <header class="sec-heading">
-            <h2>our previous project</h2>
+            <h2>Our previous project</h2>
             <span class="subheading"></span>
         </header>
     </div>

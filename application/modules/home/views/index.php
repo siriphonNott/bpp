@@ -152,7 +152,7 @@
                 <!-- Item 2 -->
                 <div class="ft-card-item wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.2s">
                     <img src="<?php echo config_item('assets'); ?>images/bg/banner/service02.jpg" alt="plan">
-                    <div class="ft-content">
+                    <div class="ft-content info-content-rigth">
                         <!-- <h5>Service Three</h5> -->
                         <div>
                             <div class="info-list-item">จำนวนชั้น</div>: 3 ชั้นครึ่ง</div>
