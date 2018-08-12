@@ -36,32 +36,15 @@ if ($this->router->fetch_class() === 'home' || $this->router->fetch_class() === 
         <link rel="stylesheet" href="<?php echo config_item('assets'); ?>styles/vendor/magnific-popup.css">
         <!-- Animate.css -->
         <link rel="stylesheet" href="<?php echo config_item('assets'); ?>styles/vendor/animate.css">
-
-
         <!-- Definity CSS -->
         <link rel="stylesheet" href="<?php echo config_item('assets'); ?>styles/main.css">
         <link rel="stylesheet" href="<?php echo config_item('assets'); ?>styles/responsive.css">
         <!-- Font -->
         <link rel="stylesheet" href="<?php echo config_item('assets'); ?>styles/fonts/sukhumvitSet/stylesheet.css">
-
         <!-- JS -->
         <script src="<?php echo config_item('assets'); ?>js/vendor/modernizr-2.8.3.min.js"></script>
 
-        <style>
-    .google-maps {
-        position: relative;
-        padding-bottom: 75%; // This is the aspect ratio
-        height: 0;
-        overflow: hidden;
-    }
-    .google-maps iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100% !important;
-        height: 100% !important;
-    }
-</style>
+
     </head>
     <body id="page-top">
 

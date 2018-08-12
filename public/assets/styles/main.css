@@ -10467,10 +10467,40 @@ form .input-error-2:focus {
     margin-bottom: 60px;
     margin-top: 50px; 
 }
+.concept-header {
+    margin-bottom: 30px;
+}
 .review-header h1 {
     color:white!important;
 }
+.concept-footer {
+    margin-bottom: 80px;
+    text-align: center;
+}
+.concept-footer h2 {
+    margin-top: 0px;
+}
+.section-review .item-vdo {
+    margin-bottom:20px;
+}
+.sec-heading h1 {
+    font-size: 28px;
+}
 
+/* ---- google-maps ---- */
+.google-maps {
+    position: relative;
+    padding-bottom: 75%; 
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
 @media (max-width: 500px) {
    .navbar-brand {
         margin-left: 0px!important;

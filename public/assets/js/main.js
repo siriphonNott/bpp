@@ -612,6 +612,7 @@
 
 		// Image Lightbox
 		var hasPopup = $('a').hasClass('open-gallery');
+		var hasPopupConcept = $('a').hasClass('open-gallery-concept');
 
 		if (hasPopup) {
 
@@ -622,7 +623,16 @@
 				  }
 			});
 			
-		}
+        } 
+        
+        if(hasPopupConcept) {
+            $('.open-gallery-concept').magnificPopup({
+				type:'image',
+				gallery: {
+				    enabled: true
+				  }
+			});
+        }
 
 
 		// Footer Gallery Lightbox
