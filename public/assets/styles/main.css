@@ -10455,8 +10455,8 @@ form .input-error-2:focus {
     text-align:center;
 }
 
-.sec-heading h1, .sec-heading h2{
-    text-transform: unset;
+.sec-heading h1, .sec-heading h2, .subheading, .copyright small{
+    text-transform: unset!important;
 }
 
 .info-list-item {

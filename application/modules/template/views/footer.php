@@ -4,12 +4,12 @@
             <div class="row">
 
                 <div class="col-md-6">
-                    <small>&copy; 2018 baan puripuri All rights reserved.</small>
+                    <small>&copy; 2018 baan puripuri All Rights Reserved.</small>
                 </div>
 
                 <div class="col-md-6">
                     <small>
-                        <a href="#page-top" class="pull-right to-the-top">To the top
+                        <a href="#page-top" class="pull-right to-the-top">TO THE TOP
                             <i class="fa fa-angle-up"></i>
                         </a>
                     </small>
