@@ -134,16 +134,26 @@
                 <!-- Item 1 -->
                 <div class="ft-card-item wow fadeInUp" data-wow-duration="1.2s">
                     <img src="<?php echo config_item('assets'); ?>images/bg/banner/service01.jpg" alt="service 01">
-                    <div class="ft-content">
+                    <div class="ft-content info-content-left">
                         <!-- <h5>Service One</h5> -->
                         <div>
-                            <div class="info-list-item">ขนาดที่ดิน </div>: เริ่ม 25 ตารางวา </div>
+                            <div class="info-list-item">ขนาดที่ดิน </div>:&nbsp;&nbsp;&nbsp;&nbsp; เริ่ม 25 ตารางวา 
+                        </div>
                         <div>
-                            <div class="info-list-item">จำนวนยูนิต </div>: 15 หลัง </div>
+                            <div class="info-list-item">จำนวนยูนิต </div>:&nbsp;&nbsp;&nbsp;&nbsp; 15 หลัง 
+                        </div>
                         <div>
-                            <div class="info-list-item">Facilities </div>: Security, ไฟฟ้าใต้ดิน, ถนนในโครงการกว้าง 8 เมตร</div>
+                            <div class="info-list-item">Facilities </div>:&nbsp;&nbsp;&nbsp;&nbsp; Security, ไฟฟ้าใต้ดิน,
+                        </div>
                         <div>
-                            <div class="info-list-item">พื้นที่ใช้สอย </div>: 233 ตารางเมตร</div>
+                            <div class="info-list-item"> </div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ถนนในโครงการ
+                        </div>
+                        <div>
+                            <div class="info-list-item"> </div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;กว้าง 8 เมตร
+                        </div>
+                        <div>
+                            <div class="info-list-item">พื้นที่ใช้สอย </div>:&nbsp;&nbsp;&nbsp;&nbsp; 233 ตารางเมตร
+                        </div>
                     </div>
                 </div>
                 <!-- / .ft-card-item -->
@@ -152,18 +162,18 @@
                 <!-- Item 2 -->
                 <div class="ft-card-item wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.2s">
                     <img src="<?php echo config_item('assets'); ?>images/bg/banner/service02.jpg" alt="plan">
-                    <div class="ft-content info-content-rigth">
+                    <div class="ft-content info-content-right">
                         <!-- <h5>Service Three</h5> -->
                         <div>
-                            <div class="info-list-item">จำนวนชั้น</div>: 3 ชั้นครึ่ง</div>
+                            <div class="info-list-item">จำนวนชั้น</div>:&nbsp;&nbsp;&nbsp;&nbsp; 3 ชั้นครึ่ง</div>
                         <div>
-                            <div class="info-list-item">หน้ากว้าง</div>: 5.35 เมตร</div>
+                            <div class="info-list-item">หน้ากว้าง</div>:&nbsp;&nbsp;&nbsp;&nbsp; 5.35 เมตร</div>
                         <div>
-                            <div class="info-list-item">ที่จอดรถ</div>: 2 คัน</div>
+                            <div class="info-list-item">ที่จอดรถ</div>:&nbsp;&nbsp;&nbsp;&nbsp; 2 คัน</div>
                         <div>
-                            <div class="info-list-item">ห้องนอน</div>: 3 ห้อง</div>
+                            <div class="info-list-item">ห้องนอน</div>:&nbsp;&nbsp;&nbsp;&nbsp; 3 ห้อง</div>
                         <div>
-                            <div class="info-list-item">ห้องน้ำ</div>: 4 ห้อง</div>
+                            <div class="info-list-item">ห้องน้ำ</div>:&nbsp;&nbsp;&nbsp;&nbsp; 4 ห้อง</div>
                     </div>
                 </div>
                 <!-- / .ft-card-item -->

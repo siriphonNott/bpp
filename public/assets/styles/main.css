@@ -10505,8 +10505,13 @@ form .input-error-2:focus {
     padding: 0;
 }
 
-.info .ft-card-item .ft-content.info-content-rigth {
-    padding-left: 80px!important;
+.info .ft-card-item .ft-content.info-content-right {
+    padding-left: 70px!important;
+}
+
+.info .ft-card-item .ft-content.info-content-left {
+  padding-left: 50px!important;
+  padding-right: 0px!important;
 }
 
 .nobody {
@@ -10519,6 +10524,14 @@ form .input-error-2:focus {
         padding-left: 0px;
         padding-right: 0px!important;
     }
+}
+@media (max-width: 1025px) {
+  .info .ft-card-item .ft-content.info-content-right {
+    padding-left: 90px!important;
+  }
+  .info .ft-card-item .ft-content.info-content-left {
+    padding-left: 60px!important;
+  }
 }
 @media (max-width: 500px) {
    .navbar-brand {
