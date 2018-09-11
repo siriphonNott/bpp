@@ -10527,6 +10527,13 @@ form .input-error-2:focus {
   text-transform: unset!important;
 }
 
+.portfolio-columns-fw .p-wrapper {
+    float: unset;
+}
+.concept-description {
+    padding: 20px;
+    font-size: 16px;
+}
 /*--  Responsive ---*/
 @media (max-width: 1260px) {
     .section {

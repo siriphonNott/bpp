@@ -137,10 +137,10 @@
                     <div class="ft-content info-content-left">
                         <!-- <h5>Service One</h5> -->
                         <div>
-                            <div class="info-list-item">ขนาดที่ดิน </div>:&nbsp;&nbsp;&nbsp;&nbsp; เริ่ม 25 ตารางวา 
+                            <div class="info-list-item">ขนาดที่ดิน </div>:&nbsp;&nbsp;&nbsp;&nbsp; เริ่ม 25 ตารางวา
                         </div>
                         <div>
-                            <div class="info-list-item">จำนวนยูนิต </div>:&nbsp;&nbsp;&nbsp;&nbsp; 15 หลัง 
+                            <div class="info-list-item">จำนวนยูนิต </div>:&nbsp;&nbsp;&nbsp;&nbsp; 15 หลัง
                         </div>
                         <div>
                             <div class="info-list-item">Facilities </div>:&nbsp;&nbsp;&nbsp;&nbsp; Security, ไฟฟ้าใต้ดิน,
@@ -211,22 +211,29 @@
                                 <i class="fa fa-expand"></i>
                             </a>
                         </div>
+                        <div class="concept-description">
+                            &nbsp;&nbsp;&nbsp;ส่วนย่อมุมด้านหน้าบ้านเป็นทั้งแผลกันแดดให้ร่มเงากับบ้านลดความร้อนที่จะเข้าสู่อาคาร และยังเป็นแผงบังตาเพื่อให้เกิดความเป็นส่วนตัวให้กับผู้อยู่อาศัย
+                        </div>
                     </div>
                     <!-- / .concept-item -->
 
                     <!-- Item 2 -->
                     <div class="col-md-4 concept-item renovation ft-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">
                         <div class="p-wrapper hover-default">
-                            <img src="<?php echo config_item('assets'); ?>images/bg/project/concepts/concept02-large.jpg" alt="concept02">
+                            <img src="<?php echo config_item('assets'); ?>images/bg/project/concepts/concept02.jpg" alt="concept02">
                             <div class="p-hover">
                                 <div class="p-content">
-                                    <!-- <h4>Project Name</h4> -->
-                                    <!-- <h6 class="subheading">Sub heading for the project</h6> -->
+                                    <!-- <h4>Project Name</h4>
+                                    <h6 class="subheading">Sub heading for the project</h6> -->
                                 </div>
                             </div>
-                            <a href="<?php echo config_item('assets'); ?>images/bg/project/concepts/concept02-large.jpg" class="open-btn open-gallery-concept">
+                            <a href="<?php echo config_item('assets'); ?>images/bg/project/concepts/concept02.jpg" class="open-btn open-gallery-concept">
                                 <i class="fa fa-expand"></i>
                             </a>
+                        </div>
+                        <div class="concept-description">
+                            &nbsp;&nbsp;&nbsp;ห้องนั่งเล่นที่ไม่ใช่แค่พื้นที่เหมือนกล่องสี่เหลี่ยมภายในบ้าน ด้วยความสูงแบบ double space ทำให้ส่วนส่วนนั่งเล่นโปร่ง โล่ง และประตูกระจกขนาดใหญ่สูง 2 ชั้น จรดเพดาน เชื่อมต่อกับชานนอกบ้านด้วยระดับพื้นที่เท่ากัน
+เป็นพื้นที่นั่งเล่นขนาดใหญ่ต่อเนื่องออกไปยังสวนส่วนตัวด้านหลัง เสมือนว่าห้องนั่งเล่นอยู่ท่ามกลางพื้นที่สีเขียว ที่รวมกันหนึ่งเดียวกับธรรมชาติภายนอก
                         </div>
                     </div>
                     <!-- / .concept-item -->
@@ -241,9 +248,12 @@
                                     <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                                 </div>
                             </div>
-                            <a href="<?php echo config_item('assets'); ?>images/bg/project/concepts/concept03-large.jpg" class="open-btn open-gallery-concept">
+                            <a href="<?php echo config_item('assets'); ?>images/bg/project/concepts/concept03.jpg" class="open-btn open-gallery-concept">
                                 <i class="fa fa-expand"></i>
                             </a>
+                        </div>
+                        <div class="concept-description">
+                            &nbsp;&nbsp;&nbsp;เริ่มจากอาคารวางในแนวที่ลดพื้นผิวในการรับแดด แต่รับลมธรรมชาติอย่างเต็มที่ส่วนพื้นที่นั่งเล่นในบ้าน นอกบ้าน และห้องทานอาหารของเราออกแบบให้ลมธรรมชาติพัดผ่านได้แม้จะปิดประตูหน้าบ้าน เพื่อความปอดภัยและความเป็นส่วนตัว
                         </div>
                     </div>
                     <!-- / .concept-item -->
