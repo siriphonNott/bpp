@@ -10518,6 +10518,15 @@ form .input-error-2:focus {
     display:none;
 }
 
+.about-us-title2 {
+  text-align:center;
+  padding: 20px 0;
+}
+
+.about-us-title2 h2 {
+  text-transform: unset!important;
+}
+
 /*--  Responsive ---*/
 @media (max-width: 1260px) {
     .section {
