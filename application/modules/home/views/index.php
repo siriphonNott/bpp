@@ -688,8 +688,8 @@
                         </li>
                         <!-- Phone -->
                         <li class="contact-group">
-                            <span class="adr-heading">PHONE</span>
-                            <span class="adr-info">081 9195901</span>
+                            <span class="adr-heading">CALL CENTER</span>
+                            <span class="adr-info">02 168 0000</span>
                         </li>
                     </ul>
                     <a href="#" class="show-map">

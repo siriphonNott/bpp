@@ -56,7 +56,7 @@
         </div>
 
         <div class="col-md-offset-1 col-md-10 about-us-title2">
-            <h2>About AssetWise</h2>
+            <img src="<?php echo config_item('assets'); ?>images/assetWise.png" alt="assetWise" width="180px">
         </div>
 
         <div class="col-md-offset-1 col-md-10">
