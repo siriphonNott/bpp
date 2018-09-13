@@ -10519,8 +10519,13 @@ form .input-error-2:focus {
 }
 
 .about-us-title2 {
-  text-align:center;
-  padding: 20px 0;
+    text-align:center;
+    padding: 20px 0;
+}
+
+.about-us-title2 img{
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 .about-us-title2 h2 {
