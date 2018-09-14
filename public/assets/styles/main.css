@@ -5398,7 +5398,7 @@ fieldset[disabled] .form-control:hover {
   display: block;
   position: relative;
   width: 100%;
-  background: gray;
+  /* background: gray; */
   overflow: hidden;
   float: left;
 }

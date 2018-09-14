@@ -122,9 +122,9 @@
     <section class="container section ft-cards-2" style="padding-bottom: 20px;">
         <header class="sec-heading">
             <h1>พบกับโครงการใหม่ล่าสุดของเรา baan puripuri ลาดพร้าว 41
-                <br>ราคาเริ่มต้น 9.7 ล้านบาท*</h1>
+                <br>ราคาเริ่มต้น 9.5 ล้านบาท*</h1>
             <span class="subheading">
-                ด้วยความความคิด private garden อันโดดเด่นกับสวนตัวหลังบ้านทุกหลัง
+                ด้วยความความคิด private garden อันโดดเด่นกับส่วนตัวหลังบ้านทุกหลัง
                 <br> รูปแบบบ้านและขนาดจะเหมือนกับโครงการที่แล้วของเรา baan puripuri สตรีวิทยา 2
             </span>
             <br>
@@ -200,7 +200,7 @@
                     <!-- Item 1 -->
                     <div class="col-md-4 concept-item renovation  ft-item wow fadeIn" data-wow-duration="1s">
                         <div class="p-wrapper hover-default">
-                            <img src="<?php echo config_item('assets'); ?>images/bg/project/concepts/concept01.jpg" alt="concept01">
+                            <img src="<?php echo config_item('assets'); ?>images/bg/project/concepts/concept01.png" alt="concept01">
                             <div class="p-hover">
                                 <div class="p-content">
                                     <!-- <h4>Project Name</h4> -->
@@ -212,7 +212,7 @@
                             </a>
                         </div>
                         <div class="concept-description">
-                            &nbsp;&nbsp;&nbsp;ส่วนย่อมุมด้านหน้าบ้านเป็นทั้งแผลกันแดดให้ร่มเงากับบ้านลดความร้อนที่จะเข้าสู่อาคาร 
+                            &nbsp;&nbsp;&nbsp;ส่วนย่อมุมด้านหน้าบ้านเป็นทั้งแผงกันแดดให้ร่มเงากับบ้านลดความร้อนที่จะเข้าสู่อาคาร 
                             และยังเป็นแผงบังตาเพื่อให้เกิดความเป็นส่วนตัวให้กับผู้อยู่อาศัย
                         </div>
                     </div>
@@ -221,7 +221,7 @@
                     <!-- Item 2 -->
                     <div class="col-md-4 concept-item renovation ft-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">
                         <div class="p-wrapper hover-default">
-                            <img src="<?php echo config_item('assets'); ?>images/bg/project/concepts/concept02.jpg" alt="concept02">
+                            <img src="<?php echo config_item('assets'); ?>images/bg/project/concepts/concept02.png" alt="concept02">
                             <div class="p-hover">
                                 <div class="p-content">
                                     <!-- <h4>Project Name</h4>
@@ -233,7 +233,7 @@
                             </a>
                         </div>
                         <div class="concept-description">
-                            &nbsp;&nbsp;&nbsp;ห้องนั่งเล่นที่ไม่ใช่แค่พื้นที่เหมือนกล่องสี่เหลี่ยมภายในบ้าน ด้วยความสูงแบบ double space ทำให้ส่วนส่วนนั่งเล่นโปร่ง โล่ง 
+                            &nbsp;&nbsp;&nbsp;ห้องนั่งเล่นที่ไม่ใช่แค่พื้นที่เหมือนกล่องสี่เหลี่ยมภายในบ้าน ด้วยความสูงแบบ double space ทำให้สวนส่วนนั่งเล่นโปร่ง โล่ง 
                             และประตูกระจกขนาดใหญ่สูง 2 ชั้น จรดเพดาน เชื่อมต่อกับชานนอกบ้านด้วยระดับพื้นที่เท่ากัน เป็นพื้นที่นั่งเล่นขนาดใหญ่ต่อเนื่องออกไปยังสวนส่วนตัวด้านหลัง 
                             เสมือนว่าห้องนั่งเล่นอยู่ท่ามกลางพื้นที่สีเขียว ที่รวมกันหนึ่งเดียวกับธรรมชาติภายนอก
                         </div>
@@ -243,7 +243,7 @@
                     <!-- Item 3 -->
                     <div class="col-md-4 concept-item renovation ft-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".6s">
                         <div class="p-wrapper hover-default">
-                            <img src="<?php echo config_item('assets'); ?>images/bg/project/concepts/concept03.jpg" alt="concept03">
+                            <img src="<?php echo config_item('assets'); ?>images/bg/project/concepts/concept03.png" alt="concept03">
                             <div class="p-hover">
                                 <div class="p-content">
                                     <!-- <h4>Project Name</h4> -->
@@ -256,7 +256,7 @@
                         </div>
                         <div class="concept-description">
                             &nbsp;&nbsp;&nbsp;เริ่มจากอาคารวางในแนวที่ลดพื้นผิวในการรับแดด แต่รับลมธรรมชาติอย่างเต็มที่ส่วนพื้นที่นั่งเล่นในบ้าน นอกบ้าน 
-                            และห้องทานอาหารของเราออกแบบให้ลมธรรมชาติพัดผ่านได้แม้จะปิดประตูหน้าบ้าน เพื่อความปอดภัยและความเป็นส่วนตัว
+                            และห้องทานอาหารของเราออกแบบให้ลมธรรมชาติพัดผ่านได้แม้จะปิดประตูหน้าบ้าน เพื่อความปลอดภัยและความเป็นส่วนตัว
                         </div>
                     </div>
                     <!-- / .concept-item -->
