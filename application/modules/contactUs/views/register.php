@@ -64,9 +64,9 @@
                         <div class="col-md-6">
                             <label for="name-contact-3">วันที่นัดหมาย</label>
                             <div class="ui calendar" id="appointmentDate">
-                                <div class="ui input left icon">
-                                <i class="calendar icon"></i>
-                                <input type="text" placeholder="Date">
+                                <div class="ui input left icon" style="width: 100%;">
+                                    <i class="calendar icon"></i>
+                                    <input type="text" class="form-control"  placeholder="Date">
                                 </div>
                             </div>
                         </div>
