@@ -2088,12 +2088,18 @@ fieldset[disabled] .form-control:hover {
     background-size: cover;
   }
 
+  .pt-plax-lg-dark-register {
+    background: url('../images/bg/parallax/parallax06.jpg') bottom center;
+    background-size: cover;
+  }
+
   .pt-plax-lg-dark:before,
   .pt-plax-lg-dark-contact:before, 
   .pt-plax-lg-dark-join-us:before,
   .pt-plax-lg-dark-previous-project:before,
   .pt-plax-lg-dark-portfolio:before,
-  .pt-plax-lg-dark-about-us:before {
+  .pt-plax-lg-dark-about-us:before,
+  .pt-plax-lg-dark-register:before {
   content: '';
   position: absolute;
   top: 0;
@@ -10539,6 +10545,14 @@ form .input-error-2:focus {
     padding: 20px;
     font-size: 16px;
 }
+.form-register > .col-md-6 {
+  margin: 20px 0;
+}
+
+.contact-form > .form-group {
+  margin-bottom: 30px!important;
+}
+
 /*--  Responsive ---*/
 @media (max-width: 1260px) {
     .section {

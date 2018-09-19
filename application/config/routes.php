@@ -62,6 +62,7 @@ $route['previous-project/portfolio/(:any)'] = 'previousProject/portfolio';
 $route['contact-us'] = 'contactUs';
 $route['contact-us/lineNoti'] = 'contactUs/LineNoti';
 $route['join-us'] = 'joinUs';
+$route['register'] = 'contactUs/register';
 
 //Page Not Fond
 $route['404'] = 'template/pageNotFound';

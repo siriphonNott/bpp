@@ -72,6 +72,7 @@ $('.contact-form').on('submit', function (e) {
             data: jsonBody
         });
 
+        jsonBody.type = 'contact';
         $.ajax({
             url: url.lineNoti,
             method: "POST",
@@ -83,10 +84,10 @@ $('.contact-form').on('submit', function (e) {
         });
 
         jqxhr.done(function (response, textStatus, jqXHR) {
-            showMessage('Send successfully.', true);
+            showMessage('Thank you for contacting to baan puripuri.', 'Send Successfully', true);
         });
         jqxhr.fail(function (jqXHR, textStatus, errorThrown) {
-            showMessage('An error occurred. Please try again later.', true);
+            showMessage('An error occurred. Please try again later.');
         });
         jqxhr.always(function () {
             // Reenable the inputs
@@ -94,27 +95,29 @@ $('.contact-form').on('submit', function (e) {
             $submitButton.attr('value', 'SEND MESSAGE');
         });
     } else {
-        showMessage(checkForm, false);
+        showMessage(checkForm);
     }
 })
 
-let showMessage = (message, type) => {
+let showMessage = (message, header = 'WARNING', type = false) => {
     $submitButton =  $form.find('input[type="submit"]');
     switch (type) {
         case true:
-        $form[0].reset();
-        $('.ajax-message').removeClass('alert-danger');
-        $('.ajax-message').addClass('alert-success');
-        break;
+            $form[0].reset();
+            $('.ajax-message').removeClass('alert-danger');
+            $('.ajax-message').addClass('alert-success');
+            break;
         case false:
-        $('.ajax-message').removeClass('alert-success');
-        $('.ajax-message').addClass('alert-danger');
-        break;
+            $('.ajax-message').removeClass('alert-success');
+            $('.ajax-message').addClass('alert-danger');
+            break;
         default:
         break;
     }
-    $('.ajax-message').fadeIn();
-    $('#ajax-message').html(message);
+    //$('#ajax-message').html(message).fadeIn();
+    $('#headerAlerting').html(header);
+    $('#alertingContent').html(message);
+    $('.tiny.modal').modal({blurring: true}).modal('show');
     $submitButton.prop("disabled", false);
     setTimeout(function(){ $submitButton.attr('value', 'SEND MESSAGE'); }, 500);
 }

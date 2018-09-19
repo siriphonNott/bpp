@@ -41,10 +41,19 @@ if ($this->router->fetch_class() === 'home' || $this->router->fetch_class() === 
         <link rel="stylesheet" href="<?php echo config_item('assets'); ?>styles/responsive.css">
         <!-- Font -->
         <link rel="stylesheet" href="<?php echo config_item('assets'); ?>styles/fonts/sukhumvitSet/stylesheet.css">
+        <!-- awesome -->
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
         <!-- JS -->
         <script src="<?php echo config_item('assets'); ?>js/vendor/modernizr-2.8.3.min.js"></script>
-
-
+        <?php
+          foreach ($linksStyleSheet as $key => $value) {
+                $link = nl2br("<link rel=\"stylesheet\" href=\"" . $value . "\">").PHP_EOL;
+                if($key != 0) {
+                   $link = nl2br("\t\t<link rel=\"stylesheet\" href=\"" . $value . "\">").PHP_EOL;
+               }
+               echo $link;
+            }
+        ?>
     </head>
     <body id="page-top">
 
@@ -101,6 +110,11 @@ if ($this->router->fetch_class() === 'home' || $this->router->fetch_class() === 
                 <!-- JOIN US -->
                 <li class="dropdown">
                   <a href="<?php echo base_url('join-us'); ?>">JOIN US </span></a>
+                </li><!-- / Blog -->
+
+                <!-- REGISTER -->
+                <li class="dropdown">
+                  <a href="<?php echo base_url('register'); ?>">REGISTER</span></a>
                 </li><!-- / Blog -->
               </ul><!-- / .nav .navbar-nav -->
 

@@ -34,28 +34,28 @@
 
                     <!-- Name -->
                     <div class="form-group">
-                      <input type="text" name="name" id="name-contact-3" class="form-control validate-locally" placeholder="Enter your name">
                       <label for="name-contact-3">Name *</label>
+                      <input type="text" name="name" id="name-contact-3" class="form-control validate-locally" placeholder="Enter your name">
                       <span class="pull-right alert-error"></span>
                     </div>
 
                     <!-- Email -->
                     <div class="form-group">
-                      <input type="email" name="email" id="email-contact-3" class="form-control validate-locally" placeholder="Enter your email">
                       <label for="email-contact-3">Email *</label>
+                      <input type="email" name="email" id="email-contact-3" class="form-control validate-locally" placeholder="Enter your email">
                       <span class="pull-right alert-error"></span>
                     </div>
 
                     <!-- Phone -->
                     <div class="form-group">
-                      <input type="tel" name="phone" id="phone-contact-3" maxlength="11" class="form-control allownumericwithoutdecimal" placeholder="Enter your phone">
                       <label for="email-contact-3">Phone</label>
+                      <input type="tel" name="phone" id="phone-contact-3" maxlength="11" class="form-control allownumericwithoutdecimal" placeholder="Enter your phone">
                     </div>
 
                     <!-- Message -->
                     <div class="form-group">
-                      <textarea class="form-control" name="message" id="message-contact-1" rows="5" placeholder="Put your message here"></textarea>
                       <label for="message-contact-1">Message *</label>
+                      <textarea class="form-control" name="message" id="message-contact-1" rows="5" placeholder="Put your message here"></textarea>
                     </div>
 
                     <input type="submit" class="btn-text" value="Send Message">
@@ -73,3 +73,12 @@
             </div>
           </div><!-- / .container -->
         </section><!-- / .contact-3 -->
+
+        <div class="ui tiny modal" style="position: static!important;">
+            <div class="header" id="headerAlerting">WARNING</div>
+            <div class="content" id="alertingContent">
+            </div>
+            <div class="actions">
+                <div class="ui cancel button">Close</div>
+            </div>
+        </div>
