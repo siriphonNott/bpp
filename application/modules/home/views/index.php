@@ -128,6 +128,7 @@
                 <br> รูปแบบบ้านและขนาดจะเหมือนกับโครงการที่แล้วของเรา baan puripuri สตรีวิทยา 2
             </span>
             <br>
+            <input onclick="location.href='<?php echo base_url('register')?>';"   type="submit" class="btn-text" value="ลงทะเบียน" style="border: 1px solid; margin:20px 0;">
         </header>
         <div class="row" style="padding-top: 25px;">
             <div class="col-md-6">
