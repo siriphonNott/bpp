@@ -26,7 +26,7 @@
                 <div class="form-wrapper">
                   <div class="from-header">
                     <h2>Contact</h2>
-                    <p>Tel: 0819195901</p>
+                    <p>Tel: 0919971997</p>
                     <p>Email: Sales@baanpuripuri.com</p>
                   </div>
 
