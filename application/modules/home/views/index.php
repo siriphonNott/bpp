@@ -125,7 +125,7 @@
     <section class="container section ft-cards-2" style="padding-bottom: 20px;">
         <header class="sec-heading">
             <h1>พบกับโครงการใหม่ล่าสุดของเรา baan puripuri ลาดพร้าว 41
-                <br>ราคาเริ่มต้น 10.00 ล้านบาท*</h1>
+                <br>ราคาเริ่มต้น 9.9 ล้านบาท*</h1>
             <span class="subheading">
                 ด้วยความความคิด private garden อันโดดเด่นกับส่วนตัวหลังบ้านทุกหลัง
                 <br> รูปแบบบ้านและขนาดจะเหมือนกับโครงการที่แล้วของเรา baan puripuri สตรีวิทยา 2
