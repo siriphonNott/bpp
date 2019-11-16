@@ -25,58 +25,58 @@
 
     <div class="row">
         <header class="sec-heading" style="margin-bottom: 50px;">
-            <h2>Publications</h2>
+            <h2>Awards & Publications</h2>
             <span class="subheading"></span>
         </header>
     </div>
     <div class="row" style="margin-bottom: 70px;">
         <div class="col-md-8 col-md-offset-2 col-sm-12">
+            
+            <div class="mb-3">
+                <h5 class="my-3">Townhome with Private Garden</h5>
+                <div><h6>Awards</h6></div>
+                <ul>
+                    <li>ASA Real Estate Development Award 2019</li>
+                </ul>
+                <div><h6>Books & Magazines</h6></div>
+                <ul>
+                    <li>Mini Building 7 Neighbourhood Facility : A&C (Taiwan)</li>
+                    <li>Room Magazine Number 171 May 2017 : baan puripuri Living outside the Box</li>
+                    <li>Room Magazine Number 177 Nov-Dev 2017 : 20 Best Housing Designs of 2017</li>
+                    <li>Me Style Home & Living Vol.5 No.57 November 2018 : Inspired Living</li>
+                </ul>
+                <div><h6>Architecture & Design Websites</h6></div>
+                <ul>
+                    <li><a href="https://www.archdaily.com/869618/townhouse-with-private-garden-baan-puripuri">https://www.archdaily.com/869618/townhouse-with-private-garden-baan-puripuri</a></li>
+                    <li><a href="https://design-milk.com/a-townhouse-with-a-private-garden-in-bangkok/">https://design-milk.com/a-townhouse-with-a-private-garden-in-bangkok/</a></li>
+                    <li><a href="https://www.archiscene.net/housing/townhouse-private-garden-baan-puripuri/">https://www.archiscene.net/housing/townhouse-private-garden-baan-puripuri/</a></li>
+                    <li><a href="http://www.contemporist.com/townhouses-with-cantilevered-planter-boxes/">http://www.contemporist.com/townhouses-with-cantilevered-planter-boxes/</a></li>
+                    <li><a href="https://homedesignlover.com/architecture/town-house-thailand-baan-puripuri/">https://homedesignlover.com/architecture/town-house-thailand-baan-puripuri/</a></li>
+                    <li><a href="https://archello.com/project/townhouse-with-private-garden">https://archello.com/project/townhouse-with-private-garden</a></li>
+                    <li><a href="https://www.dwell.com/home/townhouses-with-private-garden-808c7694">https://www.dwell.com/home/townhouses-with-private-garden-808c7694</a></li>
+                    <li><a href="http://www.treemode.com/case/1537">http://www.treemode.com/case/1537</a></li>
+                </ul>
+            </div>
 
-            <ul>
-                <li>Townhome with Private Garden</li>
-                <li>Mini Building 7 Neighbourhood Facility : A&C (Taiwan)</li>
-                <li>Room Magazine Number 171 May 2017 : baan puripuri Living outside the Box</li>
-                <li>Room Magazine Number 177 Nov-Dev 2017 : 20 Best Housing Designs of 2017</li>
+            <div class="mt-6">
+                <h5 class="my-3">Townhome with Private Courtyard</h5>
+                <div><h6>Awards</h6></div>
                 <ul>
-                    <li> <a target="_blank" href="https://www.archdaily.com/869618/townhouse-with-private-garden-baan-puripuri">
-                            https://www.archdaily.com/869618/townhouse-with-private-garden-baan-puripuri</a> </li>
-                    <li> <a target="_blank" href="https://design-milk.com/a-townhouse-with-a-private-garden-in-bangkok/">
-                            https://design-milk.com/a-townhouse-with-a-private-garden-in-bangkok/</a> </li>
-                    <li> <a target="_blank" href="https://www.archiscene.net/housing/townhouse-private-garden-baan-puripuri/">
-                            https://www.archiscene.net/housing/townhouse-private-garden-baan-puripuri/</a> </li>
-                    <li> <a target="_blank" href="http://www.contemporist.com/townhouses-with-cantilevered-planter-boxes/">
-                            http://www.contemporist.com/townhouses-with-cantilevered-planter-boxes/</a> </li>
-                    <li> <a target="_blank" href="https://homedesignlover.com/architecture/town-house-thailand-baan-puripuri/">
-                            https://homedesignlover.com/architecture/town-house-thailand-baan-puripuri/</a> </li>
-                    <li> <a target="_blank" href="https://archello.com/project/townhouse-with-private-garden">
-                            https://archello.com/project/townhouse-with-private-garden</a> </li>
-                    <li> <a target="_blank" href="https://www.dwell.com/home/townhouses-with-private-garden-808c7694">
-                            https://www.dwell.com/home/townhouses-with-private-garden-808c7694</a> </li>
-                    <li> <a target="_blank" href="http://www.treemode.com/case/1537"> http://www.treemode.com/case/1537</a> </li>
+                    <li>Our Townhome with Private Courtyard has been shortlisted in World Architecture Awards in 2015!!!</li>
                 </ul>
-                <br>
-                <li>Townhome with Private Courtyard</li>
+                <div><h6>Book</h6></div>
                 <ul>
-                    <li> <a target="_blank" href="https://www.archdaily.com/627335/townhouses-with-private-courtyards-baan-puripuri/">
-                            https://www.archdaily.com/627335/townhouses-with-private-courtyards-baan-puripuri/ </a></li>
-                    <li> <a target="_blank" href="https://architizer.com/projects/townhouse-with-private-courtyard/">
-                            https://architizer.com/projects/townhouse-with-private-courtyard/ </a></li>
-                    <li> <a target="_blank" href="http://www.interiordesignblogs.eu/townhouses-with-private-courtyards-baan-puripuri/">
-                            http://www.interiordesignblogs.eu/townhouses-with-private-courtyards-baan-puripuri/ </a></li>
-                    <li> <a target="_blank" href="http://archaddict.com/townhouses-with-private-courtyards-baan-puripuri-2/">
-                            http://archaddict.com/townhouses-with-private-courtyards-baan-puripuri-2/ </a></li>
-                    <li> <a target="_blank" href="http://www.treemode.com/case/790"> http://www.treemode.com/case/790 </a></li>
+                    <li>Me Style Home & Living Vol.5 No.57 November 2018 : Inspired Living</li>
                 </ul>
-                <br>
-                <li>Our Townhome with Private Courtyard has been shortlisted in World Architecture Awards in 2015!!!</li>
+                <div><h6>Architecture & Design Websites</h6></div>
                 <ul>
-                    <li> <a target="_blank" href="https://backstage.worldarchitecturenews.com/wanawards/project/townhouses-with-private-courtyards/?source=sector&selection=longlist">
-                            https://backstage.worldarchitecturenews.com/
-                            wanawards/project/townhouses-with-private-courtyards/
-                            ?source=sector&selection=longlist
-                        </a></li>
+                    <li><a href="https://www.archdaily.com/627335/townhouses-with-private-courtyards-baan-puripuri/">https://www.archdaily.com/627335/townhouses-with-private-courtyards-baan-puripuri/</a></li>
+                    <li><a href="https://architizer.com/projects/townhouse-with-private-courtyard/">https://architizer.com/projects/townhouse-with-private-courtyard/</a></li>
+                    <li><a href="http://www.interiordesignblogs.eu/townhouses-with-private-courtyards-baan-puripuri/">http://www.interiordesignblogs.eu/townhouses-with-private-courtyards-baan-puripuri/</a></li>
+                    <li><a href="http://archaddict.com/townhouses-with-private-courtyards-baan-puripuri-2/">http://archaddict.com/townhouses-with-private-courtyards-baan-puripuri-2/</a></li>
+                    <li><a href="http://www.treemode.com/case/790">http://www.treemode.com/case/790</a></li>
                 </ul>
-            </ul>
+            </div>
         </div>
     </div>
 
@@ -110,16 +110,14 @@
             <!-- Item 1 -->
             <div class="col-md-4 portfolio-item renovation">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv01.jpg"
-                        alt="project20">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv01.jpg" alt="project20">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv01.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv01.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -129,16 +127,14 @@
             <!-- Item 2 -->
             <div class="col-md-4 portfolio-item renovation">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv02.jpg"
-                        alt="project21">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv02.jpg" alt="project21">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv02.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv02.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -148,16 +144,14 @@
             <!-- Item 3 -->
             <div class="col-md-4 portfolio-item renovation">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv03.jpg"
-                        alt="project40">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv03.jpg" alt="project40">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv03.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv03.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -167,16 +161,14 @@
             <!-- Item 4 -->
             <div class="col-md-4 portfolio-item renovation">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv04.jpg"
-                        alt="project50">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv04.jpg" alt="project50">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv04.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-renovation/previous-rv04.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -186,16 +178,14 @@
             <!-- Item 5 -->
             <div class="col-md-4 portfolio-item private-courtyard">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc01.jpg"
-                        alt="project30">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc01.jpg" alt="project30">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc01.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc01.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -205,16 +195,14 @@
             <!-- Item 6 -->
             <div class="col-md-4 portfolio-item private-courtyard">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc02.jpg"
-                        alt="project32">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc02.jpg" alt="project32">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc02.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc02.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -224,16 +212,14 @@
             <!-- Item 7 -->
             <div class="col-md-4 portfolio-item private-courtyard">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc03.jpg"
-                        alt="project33">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc03.jpg" alt="project33">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc04.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc04.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -244,16 +230,14 @@
             <!-- Item 8 -->
             <div class="col-md-4 portfolio-item private-courtyard">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc04.jpg"
-                        alt="project33">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc04.jpg" alt="project33">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc05.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc05.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -264,16 +248,14 @@
             <!-- Item 9 -->
             <div class="col-md-4 portfolio-item private-courtyard">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc05.jpg"
-                        alt="project33">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc05.jpg" alt="project33">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc06.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc06.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -284,16 +266,14 @@
             <!-- Item 10 -->
             <div class="col-md-4 portfolio-item private-courtyard">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc06.jpg"
-                        alt="project33">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc06.jpg" alt="project33">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc03.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-with-private-courtyard/previous-pc03.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -303,16 +283,14 @@
             <!-- Item 11 -->
             <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/01.jpg"
-                        alt="project20">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/01.jpg" alt="project20">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/01.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/01.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -322,16 +300,14 @@
             <!-- Item 12 -->
             <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/02.jpg"
-                        alt="project20">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/02.jpg" alt="project20">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/02.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/02.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -341,16 +317,14 @@
             <!-- Item 13 -->
             <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/03.jpg"
-                        alt="project20">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/03.jpg" alt="project20">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/03.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/03.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -360,16 +334,14 @@
             <!-- Item 14 -->
             <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/04.jpg"
-                        alt="project20">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/04.jpg" alt="project20">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/04.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/04.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -379,16 +351,14 @@
             <!-- Item 15 -->
             <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/05.jpg"
-                        alt="project20">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/05.jpg" alt="project20">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/05.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/05.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -398,16 +368,14 @@
             <!-- Item 16 -->
             <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/06.jpg"
-                        alt="project20">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/06.jpg" alt="project20">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/06.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/06.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -417,16 +385,14 @@
             <!-- Item 17 -->
             <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/07.jpg"
-                        alt="project20">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/07.jpg" alt="project20">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/07.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/07.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
@@ -436,16 +402,14 @@
             <!-- Item 18 -->
             <div class="col-md-4 portfolio-item satreewit2">
                 <div class="p-wrapper hover-default">
-                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/08.jpg"
-                        alt="project20">
+                    <img src="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/08.jpg" alt="project20">
                     <div class="p-hover">
                         <div class="p-content">
                             <!-- <h4>Project Name</h4> -->
                             <!-- <h6 class="subheading">Sub heading for the project</h6> -->
                         </div>
                     </div>
-                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/08.jpg"
-                        class="open-btn open-gallery">
+                    <a href="<?php echo config_item('assets'); ?>images/bg/previous-projects/townhome-private-garden-satreewit2/08.jpg" class="open-btn open-gallery">
                         <i class="fa fa-expand"></i>
                     </a>
                 </div>
